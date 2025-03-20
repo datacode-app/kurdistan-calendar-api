@@ -1,0 +1,188 @@
+{
+  "holidays": [
+    {
+      "date": "2024-01-01",
+      "kurdish_date": {
+        "year": 2723,
+        "month": "Befranbar",
+        "day": 11,
+        "full_date": "١١ی Befranbar ٢٧٢٣"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "New Year's Day",
+        "ku": "ڕۆژی سەری ساڵی نوێ",
+        "ar": "رأس السنة الميلادية",
+        "fa": "روز سال نو"
+      },
+      "note": {
+        "en": "The first day of the Gregorian calendar year",
+        "ku": "یەکەم ڕۆژی ساڵی نوێی گریگۆری",
+        "ar": "أول يوم من السنة التقويمية الميلادية",
+        "fa": "اولین روز سال تقویم گرگوری"
+      },
+      "region": "all"
+    },
+    {
+      "date": "2024-03-05",
+      "kurdish_date": {
+        "year": 2723,
+        "month": "Reşeme",
+        "day": 15,
+        "full_date": "١٥ی Reşeme ٢٧٢٣"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Uprising Day (against Saddam Hussein's regime)",
+        "ku": "ڕۆژی ڕاپەڕین (دژی ڕژێمی سەدام حوسێن)",
+        "ar": "يوم الانتفاضة (ضد نظام صدام حسين)",
+        "fa": "روز قیام (علیه رژیم صدام حسین)"
+      },
+      "note": {
+        "en": "Commemorates the 1991 uprising against Saddam Hussein's regime in Iraqi Kurdistan",
+        "ku": "یادی ڕاپەڕینی ١٩٩١ دژی ڕژێمی سەدام حوسێن لە کوردستانی عێراق",
+        "ar": "تخليد ذكرى انتفاضة 1991 ضد نظام صدام حسين في كردستان العراق",
+        "fa": "بزرگداشت قیام 1991 علیه رژیم صدام حسین در کردستان عراق"
+      },
+      "region": "bashur"
+    },
+    {
+      "date": "2024-03-10",
+      "kurdish_date": {
+        "year": 2723,
+        "month": "Reşeme",
+        "day": 20,
+        "full_date": "٢٠ی Reşeme ٢٧٢٣"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "National Kurdish Clothing Day",
+        "ku": "ڕۆژی نیشتمانی جلوبەرگی کوردی",
+        "ar": "اليوم الوطني للزي الكردي",
+        "fa": "روز جهانی پوشش کردی"
+      },
+      "note": {
+        "en": "A day to celebrate and wear traditional Kurdish clothing",
+        "ku": "ڕۆژێک بۆ یادکردنەوە و لەبەرکردنی جلوبەرگی نەریتی کوردی",
+        "ar": "يوم للاحتفال وارتداء الملابس الكردية التقليدية",
+        "fa": "روزی برای جشن گرفتن و پوشیدن لباس سنتی کردی"
+      },
+      "region": "all"
+    },
+    {
+      "date": "2024-03-21",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Xakelew",
+        "day": 1,
+        "full_date": "١ی Xakelew ٢٧٢٤"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Nawroz - Kurdish New Year",
+        "ku": "نەورۆز - سەری ساڵی کوردی",
+        "ar": "نوروز - رأس السنة الكردية",
+        "fa": "نوروز - سال نو کردی"
+      },
+      "note": {
+        "en": "Traditional celebration of spring and Kurdish New Year",
+        "ku": "یادکردنەوەی نەریتی بەهار و سەری ساڵی کوردی",
+        "ar": "احتفال تقليدي بالربيع ورأس السنة الكردية",
+        "fa": "جشن سنتی بهار و سال نو کردی"
+      },
+      "region": "all"
+    },
+    {
+      "date": "2024-04-14",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Xakelew",
+        "day": 25,
+        "full_date": "٢٥ی Xakelew ٢٧٢٤"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Kurdish Language Day",
+        "ku": "ڕۆژی زمانی کوردی",
+        "ar": "يوم اللغة الكردية",
+        "fa": "روز زبان کردی"
+      },
+      "note": {
+        "en": "Celebrates the rich heritage of the Kurdish language",
+        "ku": "یادکردنەوەی میراتی دەوڵەمەندی زمانی کوردی",
+        "ar": "الاحتفال بالتراث الغني للغة الكردية",
+        "fa": "جشن میراث غنی زبان کردی"
+      },
+      "region": "all"
+    },
+    {
+      "date": "2024-06-01",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Cozerdan",
+        "day": 11,
+        "full_date": "١١ی Cozerdan ٢٧٢٤"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "International Children's Day",
+        "ku": "ڕۆژی جیهانی منداڵان",
+        "ar": "يوم الطفل العالمي",
+        "fa": "روز جهانی کودک"
+      },
+      "note": {
+        "en": "Day to honor children and raise awareness about children's rights",
+        "ku": "ڕۆژێک بۆ ڕێزگرتن لە منداڵان و هۆشیاری لەسەر مافەکانیان",
+        "ar": "يوم لتكريم الأطفال ورفع مستوى الوعي بحقوق الطفل",
+        "fa": "روزی برای احترام به کودکان و آگاهی از حقوق کودکان"
+      },
+      "region": "all"
+    },
+    {
+      "date": "2024-10-16",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Rezber",
+        "day": 24,
+        "full_date": "٢٤ی Rezber ٢٧٢٤"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Anniversary of Kurdish City Kirkuk",
+        "ku": "ساڵیادی شاری کوردی کەرکووک",
+        "ar": "ذكرى مدينة كركوك الكردية",
+        "fa": "سالگرد شهر کردی کرکوک"
+      },
+      "note": {
+        "en": "Commemorates the cultural and historical significance of Kirkuk",
+        "ku": "یادکردنەوەی گرنگی کولتووری و مێژوویی کەرکووک",
+        "ar": "إحياء للأهمية الثقافية والتاريخية لكركوك",
+        "fa": "بزرگداشت اهمیت فرهنگی و تاریخی کرکوک"
+      },
+      "region": "bashur"
+    },
+    {
+      "date": "2024-12-10",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Sermawez",
+        "day": 19,
+        "full_date": "١٩ی Sermawez ٢٧٢٤"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Human Rights Day",
+        "ku": "ڕۆژی مافەکانی مرۆڤ",
+        "ar": "يوم حقوق الإنسان",
+        "fa": "روز حقوق بشر"
+      },
+      "note": {
+        "en": "International day to commemorate the Universal Declaration of Human Rights",
+        "ku": "ڕۆژی نێودەوڵەتی بۆ یادکردنەوەی جاڕنامەی گەردوونی مافەکانی مرۆڤ",
+        "ar": "يوم دولي لإحياء ذكرى الإعلان العالمي لحقوق الإنسان",
+        "fa": "روز جهانی برای بزرگداشت اعلامیه جهانی حقوق بشر"
+      },
+      "region": "all"
+    }
+  ]
+}

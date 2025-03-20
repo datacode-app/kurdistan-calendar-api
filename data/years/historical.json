@@ -1,0 +1,316 @@
+{
+  "holidays": [
+    {
+      "date": "1946-01-22",
+      "kurdish_date": {
+        "year": 2645,
+        "month": "Rêbendan",
+        "day": 2,
+        "full_date": "٢ی Rêbendan ٢٦٤٥"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Republic of Mahabad Foundation Day",
+        "ku": "ڕۆژی دامەزراندنی کۆماری مەهاباد",
+        "ar": "يوم تأسيس جمهورية مهاباد",
+        "fa": "روز تأسیس جمهوری مهاباد"
+      },
+      "note": {
+        "en": "Establishment of the first modern Kurdish state known as the Republic of Mahabad",
+        "ku": "دامەزراندنی یەکەم دەوڵەتی مۆدێرنی کوردی کە بە کۆماری مەهاباد ناسراوە",
+        "ar": "تأسيس أول دولة كردية حديثة معروفة باسم جمهورية مهاباد",
+        "fa": "تأسیس اولین دولت مدرن کردی معروف به جمهوری مهاباد"
+      },
+      "region": "rojhelat",
+      "type": "historical"
+    },
+    {
+      "date": "1946-12-15",
+      "kurdish_date": {
+        "year": 2646,
+        "month": "Sermawez",
+        "day": 24,
+        "full_date": "٢٤ی Sermawez ٢٦٤٦"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Republic of Mahabad Dissolution",
+        "ku": "ڕۆژی هەڵوەشاندنەوەی کۆماری مەهاباد",
+        "ar": "يوم حل جمهورية مهاباد",
+        "fa": "روز انحلال جمهوری مهاباد"
+      },
+      "note": {
+        "en": "The day the Republic of Mahabad was dissolved after Soviet withdrawal",
+        "ku": "ئەو ڕۆژەی کۆماری مەهاباد هەڵوەشێنرایەوە دوای کشانەوەی سۆڤیەت",
+        "ar": "اليوم الذي تم فيه حل جمهورية مهاباد بعد انسحاب السوفييت",
+        "fa": "روزی که جمهوری مهاباد پس از خروج شوروی منحل شد"
+      },
+      "region": "rojhelat",
+      "type": "historical"
+    },
+    {
+      "date": "1961-09-11",
+      "kurdish_date": {
+        "year": 2661,
+        "month": "Xermanan",
+        "day": 20,
+        "full_date": "٢٠ی Xermanan ٢٦٦١"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "September Revolution Start",
+        "ku": "دەستپێکی شۆڕشی ئەیلول",
+        "ar": "بداية ثورة أيلول",
+        "fa": "آغاز انقلاب سپتامبر"
+      },
+      "note": {
+        "en": "Beginning of the Kurdish September Revolution led by Mustafa Barzani",
+        "ku": "دەستپێکی شۆڕشی ئەیلولی کوردی بە سەرکردایەتی مستەفا بارزانی",
+        "ar": "بداية ثورة أيلول الكردية بقيادة مصطفى بارزاني",
+        "fa": "آغاز انقلاب سپتامبر کردی به رهبری مصطفی بارزانی"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "1974-03-11",
+      "kurdish_date": {
+        "year": 2673,
+        "month": "Reşeme",
+        "day": 20,
+        "full_date": "٢٠ی Reşeme ٢٦٧٣"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdish Autonomy Agreement",
+        "ku": "ڕێککەوتنی خودموختاری کوردی",
+        "ar": "اتفاقية الحكم الذاتي الكردي",
+        "fa": "توافق خودمختاری کردی"
+      },
+      "note": {
+        "en": "Proclamation of the Iraqi-Kurdish Autonomy Agreement",
+        "ku": "ڕاگەیاندنی ڕێککەوتنی خودموختاری عێراقی-کوردی",
+        "ar": "إعلان اتفاقية الحكم الذاتي العراقية الكردية",
+        "fa": "اعلام توافق خودمختاری عراقی-کردی"
+      },
+      "region": "bashur",
+      "type": "political"
+    },
+    {
+      "date": "1988-03-16",
+      "kurdish_date": {
+        "year": 2687,
+        "month": "Reşeme",
+        "day": 26,
+        "full_date": "٢٦ی Reşeme ٢٦٨٧"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Halabja Chemical Attack",
+        "ku": "هێرشی کیمیایی هەڵەبجە",
+        "ar": "هجوم حلبجة الكيميائي",
+        "fa": "حمله شیمیایی حلبچه"
+      },
+      "note": {
+        "en": "The day of the chemical bombing of Halabja by Saddam Hussein's regime",
+        "ku": "ڕۆژی بۆردومانی کیمیایی هەڵەبجە لەلایەن ڕژێمی سەدام حوسێنەوە",
+        "ar": "يوم القصف الكيميائي لحلبجة من قبل نظام صدام حسين",
+        "fa": "روز بمباران شیمیایی حلبچه توسط رژیم صدام حسین"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "1991-03-05",
+      "kurdish_date": {
+        "year": 2690,
+        "month": "Reşeme",
+        "day": 14,
+        "full_date": "١٤ی Reşeme ٢٦٩٠"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Kurdish Uprising",
+        "ku": "ڕاپەڕینی کوردی",
+        "ar": "انتفاضة الأكراد",
+        "fa": "قیام کردها"
+      },
+      "note": {
+        "en": "Beginning of the Kurdish uprising against Saddam Hussein's regime",
+        "ku": "دەستپێکی ڕاپەڕینی کورد دژی ڕژێمی سەدام حوسێن",
+        "ar": "بداية انتفاضة الأكراد ضد نظام صدام حسين",
+        "fa": "آغاز قیام کردها علیه رژیم صدام حسین"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "1992-05-19",
+      "kurdish_date": {
+        "year": 2692,
+        "month": "Gullan",
+        "day": 29,
+        "full_date": "٢٩ی Gullan ٢٦٩٢"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "First Kurdish Elections",
+        "ku": "یەکەم هەڵبژاردنی کوردی",
+        "ar": "أول انتخابات كردية",
+        "fa": "اولین انتخابات کردی"
+      },
+      "note": {
+        "en": "First democratic elections held in Iraqi Kurdistan",
+        "ku": "یەکەم هەڵبژاردنی دیموکراسی لە کوردستانی عێراق",
+        "ar": "أول انتخابات ديمقراطية أجريت في كردستان العراق",
+        "fa": "اولین انتخابات دموکراتیک در کردستان عراق"
+      },
+      "region": "bashur",
+      "type": "political"
+    },
+    {
+      "date": "1999-02-15",
+      "kurdish_date": {
+        "year": 2698,
+        "month": "Rêbendan",
+        "day": 26,
+        "full_date": "٢٦ی Rêbendan ٢٦٩٨"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "PKK Leader Capture",
+        "ku": "دەستگیرکردنی ڕێبەری پەکەکە",
+        "ar": "القبض على زعيم حزب العمال الكردستاني",
+        "fa": "دستگیری رهبر پ.ک.ک"
+      },
+      "note": {
+        "en": "Capture of PKK leader Abdullah Öcalan in Kenya",
+        "ku": "دەستگیرکردنی عەبدوڵڵا ئۆجەلان، ڕێبەری پەکەکە لە کینیا",
+        "ar": "القبض على عبد الله أوجلان زعيم حزب العمال الكردستاني في كينيا",
+        "fa": "دستگیری عبدالله اوجالان، رهبر پ.ک.ک در کنیا"
+      },
+      "region": "bakur",
+      "type": "historical"
+    },
+    {
+      "date": "2003-03-19",
+      "kurdish_date": {
+        "year": 2702,
+        "month": "Reşeme",
+        "day": 28,
+        "full_date": "٢٨ی Reşeme ٢٧٠٢"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Iraq War Beginning",
+        "ku": "دەستپێکی شەڕی عێراق",
+        "ar": "بداية حرب العراق",
+        "fa": "آغاز جنگ عراق"
+      },
+      "note": {
+        "en": "Beginning of the Iraq War that led to significant changes for the Kurdish region",
+        "ku": "دەستپێکی شەڕی عێراق کە بووە هۆی گۆڕانکاری بەرچاو بۆ ناوچەی کوردی",
+        "ar": "بداية حرب العراق التي أدت إلى تغييرات كبيرة للمنطقة الكردية",
+        "fa": "آغاز جنگ عراق که منجر به تغییرات قابل توجهی برای منطقه کردی شد"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2005-01-30",
+      "kurdish_date": {
+        "year": 2704,
+        "month": "Rêbendan",
+        "day": 10,
+        "full_date": "١٠ی Rêbendan ٢٧٠٤"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Iraqi Kurdistan Elections",
+        "ku": "هەڵبژاردنەکانی کوردستانی عێراق",
+        "ar": "انتخابات كردستان العراق",
+        "fa": "انتخابات کردستان عراق"
+      },
+      "note": {
+        "en": "First democratic elections in post-Saddam Iraq with significant Kurdish participation",
+        "ku": "یەکەم هەڵبژاردنی دیموکراسی لە عێراقی دوای سەدام بە بەشداری بەرچاوی کورد",
+        "ar": "أول انتخابات ديمقراطية في العراق بعد صدام بمشاركة كردية كبيرة",
+        "fa": "اولین انتخابات دموکراتیک در عراق پس از صدام با مشارکت قابل توجه کردها"
+      },
+      "region": "bashur",
+      "type": "political"
+    },
+    {
+      "date": "2012-07-19",
+      "kurdish_date": {
+        "year": 2712,
+        "month": "Pûşper",
+        "day": 28,
+        "full_date": "٢٨ی Pûşper ٢٧١٢"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Rojava Revolution",
+        "ku": "شۆڕشی ڕۆژاڤا",
+        "ar": "ثورة روجافا",
+        "fa": "انقلاب روژاوا"
+      },
+      "note": {
+        "en": "Beginning of the Rojava Revolution in Syrian Kurdistan",
+        "ku": "دەستپێکی شۆڕشی ڕۆژاڤا لە کوردستانی سووریا",
+        "ar": "بداية ثورة روجافا في كردستان السورية",
+        "fa": "آغاز انقلاب روژاوا در کردستان سوریه"
+      },
+      "region": "rojava",
+      "type": "historical"
+    },
+    {
+      "date": "2014-06-10",
+      "kurdish_date": {
+        "year": 2714,
+        "month": "Cozerdan",
+        "day": 20,
+        "full_date": "٢٠ی Cozerdan ٢٧١٤"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Kirkuk Defense Day",
+        "ku": "ڕۆژی بەرگری کەرکووک",
+        "ar": "يوم الدفاع عن كركوك",
+        "fa": "روز دفاع از کرکوک"
+      },
+      "note": {
+        "en": "Day when Peshmerga forces took control of Kirkuk after the Iraqi army withdrew",
+        "ku": "ئەو ڕۆژەی هێزەکانی پێشمەرگە کۆنترۆڵی کەرکووکیان گرتە دەست دوای کشانەوەی سوپای عێراق",
+        "ar": "اليوم الذي سيطرت فيه قوات البيشمركة على كركوك بعد انسحاب الجيش العراقي",
+        "fa": "روزی که نیروهای پیشمرگه پس از عقب‌نشینی ارتش عراق، کنترل کرکوک را به دست گرفتند"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2017-09-25",
+      "kurdish_date": {
+        "year": 2717,
+        "month": "Rezber",
+        "day": 3,
+        "full_date": "٣ی Rezber ٢٧١٧"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Kurdistan Independence Referendum",
+        "ku": "ڕاپرسی سەربەخۆیی کوردستان",
+        "ar": "استفتاء استقلال كردستان",
+        "fa": "همه‌پرسی استقلال کردستان"
+      },
+      "note": {
+        "en": "The day Iraqi Kurdistan held a referendum on independence",
+        "ku": "ئەو ڕۆژەی کوردستانی عێراق ڕاپرسی لەسەر سەربەخۆیی ئەنجامدا",
+        "ar": "اليوم الذي أجرت فيه كردستان العراق استفتاءً على الاستقلال",
+        "fa": "روزی که کردستان عراق همه‌پرسی استقلال برگزار کرد"
+      },
+      "region": "bashur",
+      "type": "political"
+    }
+  ]
+}

@@ -14,6 +14,12 @@ data/years/{YEAR}.json
 
 Example: `data/years/2025.json`
 
+For historical events, a special file is used:
+
+```
+data/years/historical.json
+```
+
 ## Schema Structure
 
 ### Root Object
@@ -51,6 +57,7 @@ Each holiday entry has the following structure:
     "fa": "string"
   },
   "region": "string",
+  "type": "string (optional)",
   "image": "string (optional)"
 }
 ```
@@ -98,6 +105,7 @@ Each holiday entry has the following structure:
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
 | `note` | object | Additional information in multiple languages | see below |
+| `type` | string | Category or type of the event | "historical" |
 | `image` | string | URL or path to an image related to the event | "https://example.com/nawroz.jpg" |
 
 ### Language Support
@@ -122,6 +130,19 @@ The `region` field accepts the following values:
 | `rojhelat` | East Kurdistan (Iranian Kurdistan) |
 | `rojava` | West Kurdistan (Syrian Kurdistan) |
 | `all` | All Kurdish regions |
+
+### Event Type Values
+
+The `type` field accepts the following values:
+
+| Value | Description |
+|-------|-------------|
+| `historical` | Historical events (e.g., Republic of Mahabad foundation) |
+| `political` | Political events (e.g., elections, referendums) |
+| `commemoration` | Commemorative events (e.g., Halabja Memorial) |
+| `cultural` | Cultural celebrations (e.g., National Kurdish Clothing Day) |
+| `religious` | Religious holidays |
+| `official` | Official government holidays |
 
 ## Example Entry
 
@@ -148,7 +169,37 @@ The `region` field accepts the following values:
     "fa": "جشن سنتی بهار و سال نو"
   },
   "region": "all",
+  "type": "cultural",
   "image": "https://example.com/images/nawroz2025.jpg"
+}
+```
+
+## Historical Event Example
+
+```json
+{
+  "date": "1946-01-22",
+  "kurdish_date": {
+    "year": 2645,
+    "month": "Rêbendan",
+    "day": 2,
+    "full_date": "٢ی Rêbendan ٢٦٤٥"
+  },
+  "isHoliday": true,
+  "event": {
+    "en": "Republic of Mahabad Foundation Day",
+    "ku": "ڕۆژی دامەزراندنی کۆماری مەهاباد",
+    "ar": "يوم تأسيس جمهورية مهاباد",
+    "fa": "روز تأسیس جمهوری مهاباد"
+  },
+  "note": {
+    "en": "Establishment of the first modern Kurdish state known as the Republic of Mahabad",
+    "ku": "دامەزراندنی یەکەم دەوڵەتی مۆدێرنی کوردی کە بە کۆماری مەهاباد ناسراوە",
+    "ar": "تأسيس أول دولة كردية حديثة معروفة باسم جمهورية مهاباد",
+    "fa": "تأسیس اولین دولت مدرن کردی معروف به جمهوری مهاباد"
+  },
+  "region": "rojhelat",
+  "type": "historical"
 }
 ```
 

@@ -18,32 +18,43 @@ This document outlines the planned development path and specific tasks for the K
   - [x] Updated API documentation with Kurdish date examples
   - [x] Documented Kurdish month names and corresponding Gregorian months
   - [x] Standardized error response formats
+  
+- [x] **Conversion Utility**
+  - [x] Developed Gregorian to Kurdish date conversion function
+  - [x] Created Kurdish to Gregorian date conversion function
+  - [x] Added conversion endpoints to the API
+
+- [x] **Data Validation and Integrity**
+  - [x] Created automated validation script for Kurdish dates
+  - [x] Implemented schema validation for all year-based JSON files
+  - [x] Added GitHub Action to validate PRs containing data changes
+
+- [x] **Data Expansion**
+  - [x] Created 2023.json and 2024.json with full holiday data
+  - [x] Create 2026.json with projected holidays
+  - [x] Add significant historical dates (pre-2023)
+
+- [x] **Enhanced Filtering Options**
+  - [x] Implemented date range queries (from/to dates)
+  - [x] Added holiday type filtering (historical, political, etc.)
+  - [x] Added support for combined filters (region + type + date range)
+  - [x] Created dedicated endpoint for date range queries
 
 ## Current High-Priority Tasks
 
 ### Phase 1: Core System Enhancements (Next 2 Weeks)
 
-- [ ] **Data Validation and Integrity**
-  - [ ] Create automated validation script for Kurdish dates
-  - [ ] Implement schema validation for all year-based JSON files
-  - [ ] Add GitHub Action to validate PRs containing data changes
-
-- [ ] **Conversion Utility**
-  - [ ] Develop Gregorian to Kurdish date conversion function
-  - [ ] Create Kurdish to Gregorian date conversion function
-  - [ ] Add conversion endpoints to the API
-
-- [ ] **Data Expansion**
-  - [ ] Create 2023.json and 2024.json with full holiday data
-  - [ ] Create 2026.json with projected holidays
-  - [ ] Add significant historical dates (pre-2023)
+- [x] **Additional Data Expansion**
+  - [x] Create 2026.json with projected holidays
+  - [x] Add significant historical dates (pre-2023)
+  - [ ] Add more regional-specific holidays
 
 ### Phase 2: API Improvements (3-4 Weeks)
 
-- [ ] **Enhanced Filtering Options**
-  - [ ] Implement date range queries (from/to dates)
-  - [ ] Add holiday type filtering (official, cultural, historical, religious)
-  - [ ] Support combined filters (region + type + date range)
+- [x] **Enhanced Filtering Options**
+  - [x] Implement date range queries (from/to dates)
+  - [x] Add holiday type filtering (official, cultural, historical, religious)
+  - [x] Support combined filters (region + type + date range)
 
 - [ ] **Performance Optimization**
   - [ ] Implement caching layer (Redis or in-memory)
@@ -116,13 +127,13 @@ This document outlines the planned development path and specific tasks for the K
 
 ### Backend Development
 
-1. **Date Conversion Utility (High Priority)**
-   - Create utility functions in Python for converting between Gregorian and Kurdish dates
-   - Implement data validation for Kurdish date format
-   - Add unit tests for conversion edge cases
+1. **~~Date Conversion Utility (High Priority)~~** ✅
+   - ~~Create utility functions in Python for converting between Gregorian and Kurdish dates~~
+   - ~~Implement data validation for Kurdish date format~~
+   - ~~Add unit tests for conversion edge cases~~
 
 2. **API Expansion**
-   - Add new endpoint for date conversion (/api/v1/convert)
+   - ~~Add new endpoint for date conversion (/api/v1/convert)~~ ✅
    - Create endpoint for calendar exports (/api/v1/calendar/export)
    - Implement search functionality for events (/api/v1/search)
 
@@ -144,9 +155,9 @@ This document outlines the planned development path and specific tasks for the K
    - Include custom imagery for regional celebrations
 
 3. **Calendar Structure**
-   - Research variations in Kurdish calendar systems
-   - Document differences between regions
-   - Implement support for alternative calendar systems
+   - ~~Research variations in Kurdish calendar systems~~ ✅
+   - ~~Document differences between regions~~ ✅
+   - ~~Implement support for alternative calendar systems~~ ✅
 
 ### Documentation and Resources
 

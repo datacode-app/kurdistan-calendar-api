@@ -5,7 +5,7 @@ from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 
 from api.core.rate_limiter import limiter
-from api.routes import holidays
+from api.routes import holidays, calendar
 
 app = FastAPI(
     title="Kurdistan Calendar API",
@@ -47,6 +47,9 @@ async def root(request: Request):
 
 # Include the holidays router
 app.include_router(holidays.router)
+
+# Include the calendar router
+app.include_router(calendar.router)
 
 if __name__ == "__main__":
     import uvicorn
