@@ -1,0 +1,1263 @@
+{
+  "holidays": [
+    {
+      "date": "2025-01-01",
+      "isHoliday": true,
+      "event": {
+        "en": "New Year's Day",
+        "ku": "ڕۆژی سەری ساڵی نوێ",
+        "ar": "رأس السنة الميلادية",
+        "fa": "روز سال نو"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "The strength of our people lies in our unity and hope.",
+          "ku": "هێزی خەڵکی ئێمە لە یەکگرتوویدا و هیواماندا دێت.",
+          "ar": "قوة شعبنا تكمن في وحدتنا وأملنا.",
+          "fa": "قدرت مردم ما در اتحاد و امید ماست."
+        }
+      }
+    },
+    {
+      "date": "2025-03-05",
+      "isHoliday": true,
+      "event": {
+        "en": "Uprising Day (against Saddam Hussein's regime)",
+        "ku": "ڕۆژی ڕاپەڕین (دژی ڕژێمی سەدام حوسێن)",
+        "ar": "يوم الانتفاضة (ضد نظام صدام حسين)",
+        "fa": "روز قیام (علیه رژیم صدام حسین)"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Struggle is the path to freedom, and our spirit is unbreakable.",
+          "ku": "شەڕ هەنگاوێکی ئازادیە، و رووحمان نەشکنینەوە.",
+          "ar": "الكفاح طريق للحرية، وروحنا لا تُقهَر.",
+          "fa": "مبارزه راه آزادی است، و روح ما شکست‌ناپذیر است."
+        }
+      }
+    },
+    {
+      "date": "2025-03-10",
+      "isHoliday": false,
+      "event": {
+        "en": "National Kurdish Clothing Day",
+        "ku": "ڕۆژی نیشتمانی جلوبەرگی کوردی",
+        "ar": "اليوم الوطني للزي الكردي",
+        "fa": "روز جهانی پوشش کردی"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Kurdistan",
+        "quote": {
+          "en": "Every thread of our traditional Kurdish attire weaves the tale of our proud heritage, echoing the voices of our ancestors.",
+          "ku": "هەموو تیشکی جلوبەرگی کوردیی کۆنەکانمان چیرۆکی میراثی سەربەخۆی ئێمە دەخەینێت، دەنگی پێشینەکانمان بڵاوی دەکات.",
+          "ar": "كل خيط من ملابسنا الكردية التقليدية ينسج قصة تراثنا الفخور، معبراً عن أصوات أجدادنا.",
+          "fa": "هر نخ از پوشاک سنتی کردستان، داستان میراث پرافتخار ما را می‌بافد و پژواک صدای نیاکان ماست."
+        }
+      }
+    },
+    {
+      "date": "2025-03-11",
+      "isHoliday": true,
+      "event": {
+        "en": "Anniversary of 11 March Agreement (1970)",
+        "ku": "ساڵیادی ڕێکەوتننامەی ١١ ی ئازار (١٩٧٠)",
+        "ar": "ذكرى اتفاقية 11 آذار (1970)",
+        "fa": "سالگرد توافقنامه ۱۱ مارس (۱۹۷۰)"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "Dialogue and understanding build the bridges to our future.",
+          "ku": "ڕێکەوت و تێگەیشتن پلەکانمان بۆ داهاتی ئێمە دروست دەکەن.",
+          "ar": "الحوار والتفاهم يبنيان جسور مستقبلنا.",
+          "fa": "گفتگو و تفاهم پل‌های آینده ما را می‌سازد."
+        }
+      }
+    },
+    {
+      "date": "2025-03-11",
+      "isHoliday": true,
+      "event": {
+        "en": "Liberation of Erbil (Hawler) City",
+        "ku": "ڕزگارکردنی شارەکەی هەولێر",
+        "ar": "تحرير مدينة أربيل (هولير)",
+        "fa": "آزادسازی شهر اربیل (هولیر)"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-14",
+      "isHoliday": true,
+      "event": {
+        "en": "Birthday of Mala Mustafa Barzani",
+        "ku": "ڕۆژی لە دایکبوونی ملا مستەفا بارزانی",
+        "ar": "ذكرى ميلاد ملا مصطفى بارزاني",
+        "fa": "سالروز تولد ملا مصطفی بارزانی"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Our history is written with the ink of sacrifice and courage.",
+          "ku": "مێژووی ئێمە بە سیاڵی فداکاری و دلیری نوسراوە.",
+          "ar": "تاريخنا مكتوب بحبر التضحية والشجاعة.",
+          "fa": "تاریخ ما با جوهر فداکاری و شجاعت نوشته شده است."
+        }
+      }
+    },
+    {
+      "date": "2025-03-14",
+      "isHoliday": false,
+      "event": {
+        "en": "Liberation of Duhok City",
+        "ku": "ڕزگارکردنی شارەکەی دهوک",
+        "ar": "تحرير مدينة دهوك",
+        "fa": "آزادسازی شهر دهوک"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-16",
+      "isHoliday": false,
+      "event": {
+        "en": "Halabja Day",
+        "ku": "Rojê Halabja",
+        "ar": "يوم حلبجة",
+        "fa": "روز حلبجه"
+      },
+      "note": {
+        "en": "Commemoration of the chemical weapons bombardment on the city of Halabja",
+        "ku": "یادکردنی تەقەدانی سلاحە کیمیاویەکان لە شارەکەی حلبجة",
+        "ar": "إحياء ذكرى القصف بالأسلحة الكيميائية على مدينة حلبجة",
+        "fa": "یادبود بمباران با سلاح‌های شیمیایی در شهر حلبجه"
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-21",
+      "isHoliday": true,
+      "event": {
+        "en": "Liberation of Kirkuk City",
+        "ku": "ڕزگارکردنی شارەکەی کرکوک",
+        "ar": "تحرير مدينة كركوك",
+        "fa": "آزادسازی شهر کرکوک"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-21",
+      "isHoliday": true,
+      "event": {
+        "en": "Nawroz Kurdish New Year",
+        "ku": "نەورۆز، ساڵی نوێی کوردی",
+        "ar": "نوروز، السنة الكردية الجديدة",
+        "fa": "نوروز، سال نو کردی"
+      },
+      "note": {
+        "en": "Traditional celebration of spring and new year",
+        "ku": "جەژنی بەهار و ساڵی نوێ",
+        "ar": "احتفال تقليدي بالربيع والسنة الجديدة",
+        "fa": "جشن سنتی بهار و سال نو"
+      },
+      "country": "Kurdistan",
+      "region": "All regions",
+      "quote": {
+        "celebrity": "Sherko Bekas",
+        "quote": {
+          "en": "In every dawn, there is a promise of renewal.",
+          "ku": "لە هەموو سپیدانێکدا، پێشوازی تازەبوون هەیە.",
+          "ar": "في كل فجر، هناك وعد بالتجدد.",
+          "fa": "در هر سپیده‌دم، وعده‌ای برای تجدید وجود دارد."
+        }
+      }
+    },
+    {
+      "date": "2025-03-30",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
+        "ar": "عيد الفطر (نهاية شهر رمضان)",
+        "fa": "عید فطر (پایان ماه رمضان)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Sherko Bekas",
+        "quote": {
+          "en": "The end of fasting marks the beginning of joy and unity.",
+          "ku": "کۆتایی ڕەمەزان سەرەتای شادمانی و یەکگرتنە.",
+          "ar": "نهاية الصوم تمثل بداية الفرح والوحدة.",
+          "fa": "پایان روزه آغاز شادی و وحدت است."
+        }
+      }
+    },
+    {
+      "date": "2025-03-31",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
+        "ar": "عيد الفطر (نهاية شهر رمضان)",
+        "fa": "عید فطر (پایان ماه رمضان)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "In the spirit of Eid, hearts are united in celebration.",
+          "ku": "لە ڕوحی عیددا، دڵەکان لە جەژن یەکدیکرن.",
+          "ar": "في روح العيد، تتحد القلوب في الاحتفال.",
+          "fa": "در روح عید، دل‌ها در جشن متحد می‌شوند."
+        }
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "isHoliday": true,
+      "event": {
+        "en": "Assyrian New Year",
+        "ku": "ساڵی نوێی ئاشووری",
+        "ar": "رأس السنة الآشورية",
+        "fa": "سال نو آشوری"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "Unity in diversity makes our future brighter.",
+          "ku": "یەکگرتوو لە جیاوازییەکاندا داهاتی ئیشقەوەرمان بەڕوون دەکات.",
+          "ar": "الوحدة في التنوع تجعل مستقبلنا أكثر إشراقًا.",
+          "fa": "وحدت در تنوع، آینده ما را روشن‌تر می‌کند."
+        }
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
+        "ar": "عيد الفطر (نهاية شهر رمضان)",
+        "fa": "عید فطر (پایان ماه رمضان)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "May the blessings of Eid fill our lives with hope and unity.",
+          "ku": "خوا برکەکانی عید ژیانمان پڕ بکەن لە هیوامان و یەکگرتن.",
+          "ar": "ليملأ بركة العيد حياتنا بالأمل والوحدة.",
+          "fa": "باشد که برکت عید زندگی ما را پر از امید و وحدت کند."
+        }
+      }
+    },
+    {
+      "date": "2025-04-02",
+      "isHoliday": false,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
+        "ar": "عيد الفطر (نهاية شهر رمضان)",
+        "fa": "عید فطر (پایان ماه رمضان)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Let the spirit of Eid bring peace and prosperity to all.",
+          "ku": "بێت ڕوحی عید ئاشتی و سەروەری بۆ هەموومان بهێنێت.",
+          "ar": "دع روح العيد يجلب السلام والازدهار للجميع.",
+          "fa": "بگذارید روح عید صلح و رفاه را به همه بیاورد."
+        }
+      }
+    },
+    {
+      "date": "2025-04-09",
+      "isHoliday": true,
+      "event": {
+        "en": "Baghdad Liberation Day (fall of Saddam Hussein's regime)",
+        "ku": "ڕۆژی ئازادكردنی بەغدا (ڕووخانی ڕژێمی سەدام حوسێن)",
+        "ar": "يوم تحرير بغداد (سقوط نظام صدام حسين)",
+        "fa": "روز آزادی بغداد (سقوط رژیم صدام حسین)"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Freedom is the birthright of every human being.",
+          "ku": "ئازادی حقی خاوەنەتی هەموو مرۆڤێکە.",
+          "ar": "الحرية حق فطري لكل إنسان.",
+          "fa": "آزادی حق هر انسانی است."
+        }
+      }
+    },
+    {
+      "date": "2025-04-16",
+      "isHoliday": true,
+      "event": {
+        "en": "Yazidi New Year (Charshema Sor)",
+        "ku": "ساڵی نوێی ئێزیدی (چوارشەمە سوور)",
+        "ar": "السنة الأيزيدية الجديدة (جارشيما سور)",
+        "fa": "سال نو ایزدی (چارشما سور)"
+      },
+      "note": {
+        "en": "First Wednesday after April 13 (Yazidi tradition)",
+        "ku": "یەکەم چوارشەممە دوای ١٣ی نیسان (داب و نەریتی ئێزیدی)",
+        "ar": "أول أربعاء بعد 13 أبريل (تقليد أيزيدي)",
+        "fa": "اولین چهارشنبه بعد از ۱۳ آوریل (سنت ایزدی)"
+      },
+      "quote": {
+        "celebrity": "Sherko Bekas",
+        "quote": {
+          "en": "New beginnings are the poetry of life.",
+          "ku": "دەستپێکردنی نوێ شاعری ژیانە.",
+          "ar": "البدايات الجديدة هي شعر الحياة.",
+          "fa": "آغازهای نو، شعر زندگی هستند."
+        }
+      }
+    },
+    {
+      "date": "2025-04-16",
+      "isHoliday": true,
+      "event": {
+        "en": "Commemoration of Chemical attack on Balisan",
+        "ku": "یادکردنی تێکدانی کیمیاوی سەر بالیسان",
+        "ar": "إحياء ذكرى الهجوم الكيميائي على بالیسان",
+        "fa": "یادبود حمله شیمیایی به بالیسان"
+      },
+      "note": {
+        "en": "Commemoration of the chemical attack on Balisan, honoring the memory of those affected.",
+        "ku": "یادکردنی تێکدانی کیمیاوی سەر بالیسان، بەردەوامکردنی بیرەوەری ئەوانی زیانپێگەیاند.",
+        "ar": "إحياء ذكرى الهجوم الكيميائي على بالیسان، وتكريم ذكرى المتضررين.",
+        "fa": "یادبود حمله شیمیایی به بالیسان، بزرگداشت یاد و خاطره‌ی آسیب‌دیدگان."
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-04-22",
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdish Journalism Day",
+        "ku": "ڕۆژنامەگەری کوردی",
+        "ar": "يوم الصحافة الكردية",
+        "fa": "روز روزنامه‌نگاری کردی"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "isHoliday": true,
+      "event": {
+        "en": "International Labour Day",
+        "ku": "ڕۆژی نێودەوڵەتی کرێکاران",
+        "ar": "يوم العمال العالمي",
+        "fa": "روز جهانی کارگر"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "Work is the foundation of our progress and dignity.",
+          "ku": "کار بنای پێشڕۆکی و پەرستنی ئێمەیە.",
+          "ar": "العمل هو أساس تقدمنا وكرامتنا.",
+          "fa": "کار بنیان پیشرفت و کرامت ماست."
+        }
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Sacrifice is the essence of our faith and strength.",
+          "ku": "فداکاری جوهری ئیمانی و هێزی ئێمەیە.",
+          "ar": "التضحية هي جوهر إيماننا وقوتنا.",
+          "fa": "فداکاری جوهر ایمان و قدرت ماست."
+        }
+      }
+    },
+    {
+      "date": "2025-06-07",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "In sacrifice, we find unity and purpose.",
+          "ku": "لە فداکاریدا، یەکگرتن و مەبەستی ئێمە دۆزینەوێت.",
+          "ar": "في التضحية نجد الوحدة والهدف.",
+          "fa": "در فداکاری، وحدت و هدفمان را می‌یابیم."
+        }
+      }
+    },
+    {
+      "date": "2025-06-08",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Our sacrifices honor the legacy of our ancestors.",
+          "ku": "فداکاریەکانمان میراث پێردەرانمان بەڕێوە دەبڕێت.",
+          "ar": "تضحياتنا تكرم إرث أجدادنا.",
+          "fa": "فداکاری‌های ما، میراث نیاکانمان را گرامی می‌دارند."
+        }
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "May our sacrifices pave the way for a future of peace.",
+          "ku": "خوا فداکاریەکانمان ڕێگە بدەن بۆ داهاتی ئاشتی.",
+          "ar": "عسى تضحياتنا تمهد الطريق لمستقبل يسوده السلام.",
+          "fa": "باشد که فداکاری‌های ما راه را برای آینده‌ای از صلح هموار کند."
+        }
+      }
+    },
+    {
+      "date": "2025-06-26",
+      "isHoliday": true,
+      "event": {
+        "en": "Muharram (Islamic New Year)",
+        "ku": "موحەڕەم (ساڵی نوێی ئیسلامی)",
+        "ar": "محرم (رأس السنة الهجرية)",
+        "fa": "محرم (سال نو اسلامی)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "The new year inspires reflection, renewal, and unity.",
+          "ku": "ساڵی نوێ ڕەنگدانە، نوێکردنەوە و یەکگرتن ئاشکرا دەکات.",
+          "ar": "السنة الجديدة تلهم التأمل والتجديد والوحدة.",
+          "fa": "سال نو الهام‌بخش تأمل، نوسازی و وحدت است."
+        }
+      }
+    },
+    {
+      "date": "2025-07-14",
+      "isHoliday": true,
+      "event": {
+        "en": "Republic Day of Iraq",
+        "ku": "ڕۆژی کۆماری عێراق",
+        "ar": "يوم الجمهورية العراقية",
+        "fa": "روز جمهوری عراق"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "A united Iraq is the foundation of our collective future.",
+          "ku": "عێراقێکی یەکگرتوو بنای داهاتی گشتی ئێمەیە.",
+          "ar": "عراق الموحد هو أساس مستقبلنا الجماعي.",
+          "fa": "عراق متحد، بنیان آینده مشترک ماست."
+        }
+      }
+    },
+    {
+      "date": "2025-07-05",
+      "isHoliday": true,
+      "event": {
+        "en": "Ashura",
+        "ku": "عاشوورا",
+        "ar": "عاشوراء",
+        "fa": "عاشورا"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "In remembrance, we find the strength to overcome our sorrows.",
+          "ku": "لە بیرکردنەوەدا، دڵەکانمان هێزی دەنەوێت بۆ لێپاشخستنی خەم.",
+          "ar": "في الذكرى نجد القوة لتجاوز أحزاننا.",
+          "fa": "در یادآوری، قدرت غلبه بر اندوه‌هایمان را می‌یابیم."
+        }
+      }
+    },
+    {
+      "date": "2025-07-31",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Barzanis",
+        "ku": "یادکردنی نسل‌کشی ئانفال لەسەر بارزانیان",
+        "ar": "إحياء ذكرى إبادة أنفال ضد البارزانيين",
+        "fa": "یادبود نسل‌کشی آنفال علیه بارزانی‌ها"
+      },
+      "note": {
+        "en": "Commemoration of the genocide inflicted on the Barzani community during the Anfal campaign.",
+        "ku": "یادکردنی نسل‌کشی لەسەر کۆمەڵگای بارزانیان لە پەیامانی ئانفال.",
+        "ar": "إحياء ذكرى الإبادة الجماعية التي تعرضت لها جماعة البارزانيين خلال حملة أنفال.",
+        "fa": "یادبود نسل‌کشی آنفال علیه جامعه بارزانی‌ها در جریان کمپین آنفال."
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-08-03",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Yazidis' Genocide",
+        "ku": "یادکردنی نسل‌کشی یەزیدەکان",
+        "ar": "إحياء ذكرى إبادة اليزيديين",
+        "fa": "یادبود نسل‌کشی یزیدی‌ها"
+      },
+      "note": {
+        "en": "Commemoration of the genocide inflicted on the Yazidi community.",
+        "ku": "یادکردنی نسل‌کشی لەسەر کۆمەڵگای یەزیدەکان.",
+        "ar": "إحياء ذكرى الإبادة الجماعية التي تعرضت لها جماعة اليزيديين.",
+        "fa": "یادبود نسل‌کشی علیه جامعه یزیدی‌ها."
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-09-04",
+      "isHoliday": false,
+      "event": {
+        "en": "Birthday of Prophet Mohammed (PBUH)",
+        "ku": "ڕۆژی لە دایکبوونی پێغەمبەر محەمەد (د.خ)",
+        "ar": "ذكرى مولد النبي محمد (ص)",
+        "fa": "میلاد پیامبر اسلام حضرت محمد (ص)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
+        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "The teachings of the Prophet illuminate the path of righteousness.",
+          "ku": "فێرکاریی پێغەمبەر ڕێگای ڕاستگویی ڕوون دەکات.",
+          "ar": "تعاليم النبي تضيء طريق البر.",
+          "fa": "تعالیم پیامبر راه راست را روشن می‌کند."
+        }
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "isHoliday": true,
+      "event": {
+        "en": "Christmas Day",
+        "ku": "ڕۆژی کریسمس",
+        "ar": "عيد الميلاد",
+        "fa": "کریسمس"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Peace and goodwill are the true gifts of the season.",
+          "ku": "ئاشتی و خەریکی خۆشەویستی گەنجینەی ڕاستی ئەم کاتەیە.",
+          "ar": "السلام والنوايا الحسنة هي الهدايا الحقيقية لهذا الموسم.",
+          "fa": "صلح و نیت خیر، هدیه‌های واقعی این فصل هستند."
+        }
+      }
+    },
+    {
+      "date": "2024-03-21",
+      "isHoliday": true,
+      "event": {
+        "en": "Nawroz - Kurdish New Year",
+        "ku": "نەورۆز - سەری ساڵی کوردی",
+        "ar": "نوروز - رأس السنة الكردية",
+        "fa": "نوروز - سال نو کردی"
+      },
+      "note": {
+        "en": "Traditional celebration of spring and new year",
+        "ku": "جەژنی بەهار و ساڵی نوێ",
+        "ar": "احتفال تقليدي بالربيع والسنة الجديدة",
+        "fa": "جشن سنتی بهار و سال نو"
+      },
+      "country": "Kurdistan",
+      "region": "All regions",
+      "quote": {
+        "celebrity": "Sherko Bekas",
+        "quote": {
+          "en": "Nawroz is a celebration of our enduring spirit and heritage.",
+          "ku": "نەورۆز جەژنی هەستی ماندوو و میراثمانە.",
+          "ar": "نوروز احتفال بروحنا وإرثنا الدائم.",
+          "fa": "نوروز جشن روح و میراث پایدار ماست."
+        }
+      }
+    },
+    {
+      "date": "2024-12-10",
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdish Flag Day",
+        "ku": "ڕۆژی ئاڵای کوردستان",
+        "ar": "يوم العلم الكردي",
+        "fa": "روز پرچم کردستان"
+      },
+      "country": "Iraq",
+      "region": "South Kurdistan",
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "Our flag symbolizes the courage and unity of our people.",
+          "ku": "ئاڵای ئێمە نیشانی دلیری و یەکگرتنی خەڵکەکانمانە.",
+          "ar": "علمنا يرمز إلى شجاعة ووحدة شعبنا.",
+          "fa": "پرچم ما نماد شجاعت و وحدت مردم ماست."
+        }
+      }
+    },
+    {
+      "date": "2024-03-16",
+      "isHoliday": false,
+      "event": {
+        "en": "Halabja Memorial Day",
+        "ku": "یادی کیمیابارانی هەڵەبجە",
+        "ar": "ذكرى حلبجة",
+        "fa": "یادبود حلبجه"
+      },
+      "country": "Iraq",
+      "region": "South Kurdistan",
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "We remember Halabja to honor the sacrifice of our martyrs.",
+          "ku": "بیر لە هەڵەبجە دەکەین بۆ سەرفرازی فداکاری شهیدەکانمان.",
+          "ar": "نحن نذكر حلبجة لتكريم تضحيات شهدائنا.",
+          "fa": "ما هلالبجا را به یاد می‌آوریم تا فداکاری شهدایمان را تجلیل کنیم."
+        }
+      }
+    },
+    {
+      "date": "2024-03-14",
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdish Clothing Day",
+        "ku": "ڕۆژی جلوبەرگی کوردی",
+        "ar": "يوم الملابس الكردية",
+        "fa": "روز لباس کردی"
+      },
+      "country": "Iran",
+      "region": "East Kurdistan",
+      "quote": {
+        "celebrity": "Sherko Bekas",
+        "quote": {
+          "en": "Traditional attire is the fabric of our cultural identity.",
+          "ku": "جلوبەرگی کۆن ڕووسای نیشانی کلتوری ئێمەیە.",
+          "ar": "الزي التقليدي هو نسيج هويتنا الثقافية.",
+          "fa": "لباس سنتی، پارچه هویت فرهنگی ماست."
+        }
+      }
+    },
+    {
+      "date": "2024-03-05",
+      "isHoliday": true,
+      "event": {
+        "en": "Kurdish Uprising Day",
+        "ku": "ڕۆژی ڕاپەڕینی کوردستان",
+        "ar": "يوم الانتفاضة الكردية",
+        "fa": "روز قیام کردستان"
+      },
+      "note": {
+        "en": "Anniversary of the 1991 Kurdish uprising",
+        "ku": "ساڵیادی ڕاپەڕینی ١٩٩١ی کوردستان",
+        "ar": "ذكرى الانتفاضة الكردية عام 1991",
+        "fa": "سالگرد قیام کردستان در سال 1991"
+      },
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "The spirit of uprising lives in every Kurdish heart.",
+          "ku": "ڕوحی ڕاپەڕین لە هەموو دڵی کوردەکان دەژی.",
+          "ar": "روح الانتفاضة تعيش في كل قلب كردي.",
+          "fa": "روح قیام در هر دل کرد وجود دارد."
+        }
+      }
+    },
+    {
+      "date": "2024-08-15",
+      "isHoliday": false,
+      "event": {
+        "en": "Mahabad Republic Day",
+        "ku": "ڕۆژی کۆماری مەهاباد",
+        "ar": "يوم جمهورية مهاباد",
+        "fa": "روز جمهوری مهاباد"
+      },
+      "country": "Iran",
+      "region": "East Kurdistan",
+      "quote": {
+        "celebrity": "Masoud Barzani",
+        "quote": {
+          "en": "Mahabad reminds us that freedom is the path to true democracy.",
+          "ku": "مەهاباد بۆمان بەردەوامی ئازادی و دیموکراسی ڕوون دەکات.",
+          "ar": "مهاباد تذكرنا بأن الحرية هي الطريق إلى الديمقراطية الحقيقية.",
+          "fa": "مهاباد به ما یادآوری می‌کند که آزادی راه دموکراسی واقعی است."
+        }
+      }
+    },
+    {
+      "date": "2024-01-22",
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdistan Parliament Day",
+        "ku": "ڕۆژی پەرلەمانی کوردستان",
+        "ar": "يوم البرلمان الكردستاني",
+        "fa": "روز پارلمان کردستان"
+      },
+      "country": "Iraq",
+      "region": "South Kurdistan",
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "Our parliament is the voice of the people, echoing justice and hope.",
+          "ku": "پەرلەمانمان دەنگی خەڵکە، بە ئاوازێکی داد و هیوامان دەنگ دەدات.",
+          "ar": "برلماننا هو صوت الشعب، يعكس العدالة والأمل.",
+          "fa": "پارلمان ما صدای مردم است که عدالت و امید را بازتاب می‌دهد."
+        }
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "isHoliday": false,
+      "event": {
+        "en": "Feast of Qawltas",
+        "ku": "جشن قاولطاس",
+        "ar": "عيد قاولطاس",
+        "fa": "جشن قاولتاس"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-01-22",
+      "isHoliday": false,
+      "event": {
+        "en": "Establishment of Republic of Mahabad Day",
+        "ku": "ڕۆژی دامەزراندنی کۆماری مەهاباد",
+        "ar": "يوم تأسيس جمهورية مهاباد",
+        "fa": "روز تأسیس جمهوری مهاباد"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-02-01",
+      "isHoliday": false,
+      "event": {
+        "en": "Erbil Deadly Twin Terrorist attacks",
+        "ku": "دو هێرشی ترۆریستی مرگبار لە هەولێر",
+        "ar": "هجمات إرهابية مزدوجة قاتلة في أربيل",
+        "fa": "حملات تروریستی دوگانه مرگبار در اربیل"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-02-25",
+      "isHoliday": false,
+      "event": {
+        "en": "Turkmen's Journalism Day",
+        "ku": "ڕۆژی ڕۆژنامەوانیی تورکمن",
+        "ar": "يوم الصحافة التركمانية",
+        "fa": "روز روزنامه‌نگاری ترکمن"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-01",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Mustafa Barzani's Passing",
+        "ku": "بەیادگێڕانی ڕەحلتی مستەفا بارزانی",
+        "ar": "إحياء ذكرى رحيل مصطفى بارزاني",
+        "fa": "یادبود رحلت مصطفی بارزانی"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-07",
+      "isHoliday": false,
+      "event": {
+        "en": "Liberation of Slemani City",
+        "ku": "ڕزگرتنی شاری سلێمانی",
+        "ar": "تحرير مدينة السليمانية",
+        "fa": "رهایی شهر سلیمانی"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-08",
+      "isHoliday": false,
+      "event": {
+        "en": "Women's Day",
+        "ku": "ڕۆژی ژنان",
+        "ar": "يوم المرأة",
+        "fa": "روز زنان"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Garmians' (Chamchamal and Kalar)",
+        "ku": "بەیادگێڕانی جەنوای ئەنفال بەسەر گەرمیان (چەمچەماڵ و کەلار)",
+        "ar": "إحياء ذكرى إبادة أنفال ضد الجرميانيين (شمشمال وكالار)",
+        "fa": "یادبود نسل‌کشی آنفال علیه گرمیان (چمچمال و کالار)"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-04-24",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Bombardment of Qaladze",
+        "ku": "بەیادگێڕانی قصفی قەلادزە",
+        "ar": "إحياء ذكرى قصف قلدزة",
+        "fa": "یادبود قصف قلادزه"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-08-07",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Assyrian Martyrs",
+        "ku": "بەیادگێڕانی شەهیدانی ئەسوری",
+        "ar": "إحياء ذكرى شهداء الآشوريين",
+        "fa": "یادبود شهیدان آشوری"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-08-25",
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Badinans'",
+        "ku": "بەیادگێڕانی جەنوای ئەنفال بەسەر بادینان",
+        "ar": "إحياء ذكرى إبادة أنفال ضد البادينانيين",
+        "fa": "یادبود نسل‌کشی آنفال علیه بادینان"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-11-17",
+      "isHoliday": false,
+      "event": {
+        "en": "Turkmen's Culture and Language Day",
+        "ku": "ڕۆژی کلتوری و زمانی تورکمن",
+        "ar": "يوم الثقافة واللغة التركمانية",
+        "fa": "روز فرهنگ و زبان ترکمن"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdistan Flag Day",
+        "ku": "ڕۆژی ئاڵای کوردستان",
+        "ar": "يوم علم كردستان",
+        "fa": "روز پرچم کوردستان"
+      },
+      "note": {
+        "en": "",
+        "ku": "",
+        "ar": "",
+        "fa": ""
+      },
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    }
+  ]
+}
