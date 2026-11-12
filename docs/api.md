@@ -12,8 +12,7 @@ http://localhost:8000
 
 ## Rate Limits
 
-- 10 requests per minute per IP address
-- 1000 requests per day per IP address
+- 60 requests per minute per IP address by default (configurable with the `RATE_LIMIT` environment variable)
 
 ## Authentication
 

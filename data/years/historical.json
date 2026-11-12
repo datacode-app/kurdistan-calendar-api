@@ -5,8 +5,11 @@
       "kurdish_date": {
         "year": 2645,
         "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
         "day": 2,
-        "full_date": "٢ی Rêbendan ٢٦٤٥"
+        "full_date": "٢ی ڕێبەندان ٢٦٤٥",
+        "full_date_latin": "2 Rêbendan 2645"
       },
       "isHoliday": true,
       "event": {
@@ -29,8 +32,11 @@
       "kurdish_date": {
         "year": 2646,
         "month": "Sermawez",
+        "month_number": 9,
+        "month_ku": "سەرماوەز",
         "day": 24,
-        "full_date": "٢٤ی Sermawez ٢٦٤٦"
+        "full_date": "٢٤ی سەرماوەز ٢٦٤٦",
+        "full_date_latin": "24 Sermawez 2646"
       },
       "isHoliday": true,
       "event": {
@@ -53,8 +59,11 @@
       "kurdish_date": {
         "year": 2661,
         "month": "Xermanan",
+        "month_number": 6,
+        "month_ku": "خەرمانان",
         "day": 20,
-        "full_date": "٢٠ی Xermanan ٢٦٦١"
+        "full_date": "٢٠ی خەرمانان ٢٦٦١",
+        "full_date_latin": "20 Xermanan 2661"
       },
       "isHoliday": true,
       "event": {
@@ -77,8 +86,11 @@
       "kurdish_date": {
         "year": 2673,
         "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
         "day": 20,
-        "full_date": "٢٠ی Reşeme ٢٦٧٣"
+        "full_date": "٢٠ی ڕەشەمە ٢٦٧٣",
+        "full_date_latin": "20 Reşeme 2673"
       },
       "isHoliday": false,
       "event": {
@@ -101,8 +113,11 @@
       "kurdish_date": {
         "year": 2687,
         "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
         "day": 26,
-        "full_date": "٢٦ی Reşeme ٢٦٨٧"
+        "full_date": "٢٦ی ڕەشەمە ٢٦٨٧",
+        "full_date_latin": "26 Reşeme 2687"
       },
       "isHoliday": true,
       "event": {
@@ -125,8 +140,11 @@
       "kurdish_date": {
         "year": 2690,
         "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
         "day": 14,
-        "full_date": "١٤ی Reşeme ٢٦٩٠"
+        "full_date": "١٤ی ڕەشەمە ٢٦٩٠",
+        "full_date_latin": "14 Reşeme 2690"
       },
       "isHoliday": true,
       "event": {
@@ -149,8 +167,11 @@
       "kurdish_date": {
         "year": 2692,
         "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
         "day": 29,
-        "full_date": "٢٩ی Gullan ٢٦٩٢"
+        "full_date": "٢٩ی گوڵان ٢٦٩٢",
+        "full_date_latin": "29 Gullan 2692"
       },
       "isHoliday": true,
       "event": {
@@ -173,8 +194,11 @@
       "kurdish_date": {
         "year": 2698,
         "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
         "day": 26,
-        "full_date": "٢٦ی Rêbendan ٢٦٩٨"
+        "full_date": "٢٦ی ڕێبەندان ٢٦٩٨",
+        "full_date_latin": "26 Rêbendan 2698"
       },
       "isHoliday": true,
       "event": {
@@ -197,8 +221,11 @@
       "kurdish_date": {
         "year": 2702,
         "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
         "day": 28,
-        "full_date": "٢٨ی Reşeme ٢٧٠٢"
+        "full_date": "٢٨ی ڕەشەمە ٢٧٠٢",
+        "full_date_latin": "28 Reşeme 2702"
       },
       "isHoliday": false,
       "event": {
@@ -221,8 +248,11 @@
       "kurdish_date": {
         "year": 2704,
         "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
         "day": 10,
-        "full_date": "١٠ی Rêbendan ٢٧٠٤"
+        "full_date": "١٠ی ڕێبەندان ٢٧٠٤",
+        "full_date_latin": "10 Rêbendan 2704"
       },
       "isHoliday": false,
       "event": {
@@ -245,8 +275,11 @@
       "kurdish_date": {
         "year": 2712,
         "month": "Pûşper",
+        "month_number": 4,
+        "month_ku": "پووشپەڕ",
         "day": 28,
-        "full_date": "٢٨ی Pûşper ٢٧١٢"
+        "full_date": "٢٨ی پووشپەڕ ٢٧١٢",
+        "full_date_latin": "28 Pûşper 2712"
       },
       "isHoliday": true,
       "event": {
@@ -269,8 +302,11 @@
       "kurdish_date": {
         "year": 2714,
         "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
         "day": 20,
-        "full_date": "٢٠ی Cozerdan ٢٧١٤"
+        "full_date": "٢٠ی جۆزەردان ٢٧١٤",
+        "full_date_latin": "20 Cozerdan 2714"
       },
       "isHoliday": false,
       "event": {
@@ -293,8 +329,11 @@
       "kurdish_date": {
         "year": 2717,
         "month": "Rezber",
+        "month_number": 7,
+        "month_ku": "ڕەزبەر",
         "day": 3,
-        "full_date": "٣ی Rezber ٢٧١٧"
+        "full_date": "٣ی ڕەزبەر ٢٧١٧",
+        "full_date_latin": "3 Rezber 2717"
       },
       "isHoliday": true,
       "event": {

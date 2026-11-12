@@ -1,9 +1,10 @@
 from fastapi import APIRouter, Request, Query, HTTPException
 from typing import Dict, Union
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from pydantic import BaseModel
 
-from api.core.rate_limiter import limiter
+from api.core.rate_limiter import DEFAULT_LIMIT, limiter
 from api.utils.date_utils import (
     gregorian_to_kurdish, 
     kurdish_to_gregorian,
@@ -15,6 +16,18 @@ router = APIRouter(
     tags=["calendar"],
 )
 
+@router.get("/today")
+@limiter.limit(DEFAULT_LIMIT)
+async def get_today(request: Request):
+    """Today's date in both calendars (Kurdistan Region local time)."""
+    today = datetime.now(ZoneInfo("Asia/Baghdad")).date()
+    return {
+        "status": "success",
+        "gregorian_date": today.isoformat(),
+        "kurdish_date": gregorian_to_kurdish(today),
+    }
+
+
 class GregorianToKurdishRequest(BaseModel):
     date: str
 
@@ -24,14 +37,13 @@ class KurdishToGregorianRequest(BaseModel):
     day: int
 
 @router.post("/convert/gregorian-to-kurdish")
-@limiter.limit("10/minute")
+@limiter.limit(DEFAULT_LIMIT)
 async def convert_gregorian_to_kurdish(
     request: Request, 
     data: GregorianToKurdishRequest
 ):
     """
     Convert a Gregorian date to Kurdish date.
-    Rate limited to 10 requests per minute.
     
     Example request:
     ```json
@@ -64,14 +76,13 @@ async def convert_gregorian_to_kurdish(
         )
 
 @router.post("/convert/kurdish-to-gregorian")
-@limiter.limit("10/minute")
+@limiter.limit(DEFAULT_LIMIT)
 async def convert_kurdish_to_gregorian(
     request: Request, 
     data: KurdishToGregorianRequest
 ):
     """
     Convert a Kurdish date to Gregorian date.
-    Rate limited to 10 requests per minute.
     
     Example request:
     ```json
@@ -87,10 +98,7 @@ async def convert_kurdish_to_gregorian(
     try:
         # Validate Kurdish date
         if not is_valid_kurdish_date(data.year, data.month, data.day):
-            raise HTTPException(
-                status_code=400,
-                detail="Invalid Kurdish date"
-            )
+            raise ValueError("Invalid Kurdish date")
         
         # Convert to Gregorian date
         gregorian_date = kurdish_to_gregorian(data.year, data.month, data.day)
@@ -116,14 +124,13 @@ async def convert_kurdish_to_gregorian(
         )
 
 @router.get("/convert/gregorian-to-kurdish/{date}")
-@limiter.limit("10/minute")
+@limiter.limit(DEFAULT_LIMIT)
 async def get_gregorian_to_kurdish(
     request: Request,
     date: str
 ):
     """
     Convert a Gregorian date to Kurdish date using GET request.
-    Rate limited to 10 requests per minute.
     
     Date format: YYYY-MM-DD
     """
@@ -151,16 +158,15 @@ async def get_gregorian_to_kurdish(
         )
 
 @router.get("/validate/kurdish-date")
-@limiter.limit("10/minute")
+@limiter.limit(DEFAULT_LIMIT)
 async def validate_kurdish_date(
     request: Request,
     year: int,
-    month: Union[str, int],
+    month: str,
     day: int
 ):
     """
     Validate if a Kurdish date is valid.
-    Rate limited to 10 requests per minute.
     
     Query parameters:
     - year: Kurdish year (e.g., 2724)
@@ -183,4 +189,4 @@ async def validate_kurdish_date(
         raise HTTPException(
             status_code=500,
             detail=f"Error validating date: {str(e)}"
-        ) 
+        )

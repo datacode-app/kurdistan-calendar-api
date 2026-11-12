@@ -1,20 +1,27 @@
 {
+  "year": 2025,
+  "status": "official",
   "holidays": [
     {
       "date": "2025-01-01",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Befranbar",
+        "month_number": 10,
+        "month_ku": "بەفرانبار",
+        "day": 11,
+        "full_date": "١١ی بەفرانبار ٢٧٢٤",
+        "full_date_latin": "11 Befranbar 2724"
+      },
       "isHoliday": true,
       "event": {
         "en": "New Year's Day",
-        "ku": "ڕۆژی سەری ساڵی نوێ",
+        "ku": "سەری ساڵی زایینی",
         "ar": "رأس السنة الميلادية",
-        "fa": "روز سال نو"
+        "fa": "آغاز سال نو میلادی"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "all",
+      "type": "official",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -23,29 +30,178 @@
           "ar": "قوة شعبنا تكمن في وحدتنا وأملنا.",
           "fa": "قدرت مردم ما در اتحاد و امید ماست."
         }
-      },
+      }
+    },
+    {
+      "date": "2025-01-14",
       "kurdish_date": {
         "year": 2724,
         "month": "Befranbar",
-        "day": 11,
-        "full_date": "١١ی Befranbar ٢٧٢٤"
+        "month_number": 10,
+        "month_ku": "بەفرانبار",
+        "day": 24,
+        "full_date": "٢٤ی بەفرانبار ٢٧٢٤",
+        "full_date_latin": "24 Befranbar 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Feast of Qawltas",
+        "ku": "جەژنی قەوڵتاس",
+        "ar": "عيد قولطاس",
+        "fa": "جشن قولطاس"
+      },
+      "region": "bashur",
+      "type": "religious",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-01-22",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
+        "day": 2,
+        "full_date": "٢ی ڕێبەندان ٢٧٢٤",
+        "full_date_latin": "2 Rêbendan 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Establishment of Republic of Mahabad Day",
+        "ku": "ڕۆژی دامەزراندنی کۆماری کوردستان (مەهاباد)",
+        "ar": "ذكرى تأسيس جمهورية كوردستان (مهاباد)",
+        "fa": "سالروز تأسیس جمهوری کردستان (مهاباد)"
+      },
+      "region": "all",
+      "type": "historical",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-02-01",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
+        "day": 12,
+        "full_date": "١٢ی ڕێبەندان ٢٧٢٤",
+        "full_date_latin": "12 Rêbendan 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Erbil Deadly Twin Terrorist attacks",
+        "ku": "یادی تەقینەوەکانی ١ی شوباتی هەولێر",
+        "ar": "ذكرى تفجيري أربيل في 1 شباط",
+        "fa": "یادبود بمب‌گذاری‌های اول فوریه اربیل"
+      },
+      "region": "bashur",
+      "type": "commemoration",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-02-25",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 6,
+        "full_date": "٦ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "6 Reşeme 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Turkmen's Journalism Day",
+        "ku": "ڕۆژی ڕۆژنامەگەریی تورکمانی",
+        "ar": "يوم الصحافة التركمانية",
+        "fa": "روز روزنامه‌نگاری ترکمن"
+      },
+      "region": "bashur",
+      "type": "cultural",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-01",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 10,
+        "full_date": "١٠ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "10 Reşeme 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Mustafa Barzani's Passing",
+        "ku": "یادی کۆچی دوایی مستەفا بارزانی",
+        "ar": "ذكرى رحيل مصطفى بارزاني",
+        "fa": "سالگرد درگذشت مصطفی بارزانی"
+      },
+      "region": "bashur",
+      "type": "commemoration",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-03-05",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 14,
+        "full_date": "١٤ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "14 Reşeme 2724"
+      },
       "isHoliday": true,
       "event": {
         "en": "Uprising Day (against Saddam Hussein's regime)",
-        "ku": "ڕۆژی ڕاپەڕین (دژی ڕژێمی سەدام حوسێن)",
-        "ar": "يوم الانتفاضة (ضد نظام صدام حسين)",
-        "fa": "روز قیام (علیه رژیم صدام حسین)"
+        "ku": "ساڵیادی ڕاپەڕینی ساڵی ١٩٩١",
+        "ar": "ذكرى انتفاضة عام 1991",
+        "fa": "سالگرد قیام ۱۹۹۱"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "historical",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -54,29 +210,88 @@
           "ar": "الكفاح طريق للحرية، وروحنا لا تُقهَر.",
           "fa": "مبارزه راه آزادی است، و روح ما شکست‌ناپذیر است."
         }
-      },
+      }
+    },
+    {
+      "date": "2025-03-07",
       "kurdish_date": {
         "year": 2724,
         "month": "Reşeme",
-        "day": 14,
-        "full_date": "١٤ی Reşeme ٢٧٢٤"
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 16,
+        "full_date": "١٦ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "16 Reşeme 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Liberation of Slemani City",
+        "ku": "ڕزگارکردنی شاری سلێمانی",
+        "ar": "تحرير مدينة السليمانية",
+        "fa": "آزادسازی شهر سلیمانیه"
+      },
+      "region": "bashur",
+      "type": "historical",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-03-08",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 17,
+        "full_date": "١٧ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "17 Reşeme 2724"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Women's Day",
+        "ku": "ڕۆژی جیهانیی ژنان",
+        "ar": "اليوم العالمي للمرأة",
+        "fa": "روز جهانی زن"
+      },
+      "region": "all",
+      "type": "cultural",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-03-10",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 19,
+        "full_date": "١٩ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "19 Reşeme 2724"
+      },
       "isHoliday": false,
       "event": {
         "en": "National Kurdish Clothing Day",
-        "ku": "ڕۆژی نیشتمانی جلوبەرگی کوردی",
-        "ar": "اليوم الوطني للزي الكردي",
-        "fa": "روز جهانی پوشش کردی"
+        "ku": "ڕۆژی جلوبەرگی کوردی",
+        "ar": "يوم الزي الكوردي",
+        "fa": "روز لباس کردی"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "all",
+      "type": "cultural",
       "quote": {
         "celebrity": "Kurdistan",
         "quote": {
@@ -85,29 +300,28 @@
           "ar": "كل خيط من ملابسنا الكردية التقليدية ينسج قصة تراثنا الفخور، معبراً عن أصوات أجدادنا.",
           "fa": "هر نخ از پوشاک سنتی کردستان، داستان میراث پرافتخار ما را می‌بافد و پژواک صدای نیاکان ماست."
         }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 19,
-        "full_date": "١٩ی Reşeme ٢٧٢٤"
       }
     },
     {
       "date": "2025-03-11",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 20,
+        "full_date": "٢٠ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "20 Reşeme 2724"
+      },
       "isHoliday": true,
       "event": {
         "en": "Anniversary of 11 March Agreement (1970)",
-        "ku": "ساڵیادی ڕێکەوتننامەی ١١ ی ئازار (١٩٧٠)",
-        "ar": "ذكرى اتفاقية 11 آذار (1970)",
-        "fa": "سالگرد توافقنامه ۱۱ مارس (۱۹۷۰)"
+        "ku": "ساڵیادی ڕێککەوتننامەی ١١ی ئازاری ١٩٧٠",
+        "ar": "ذكرى اتفاقية 11 آذار 1970",
+        "fa": "سالگرد توافق‌نامه ۱۱ مارس ۱۹۷۰"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "historical",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -116,29 +330,28 @@
           "ar": "الحوار والتفاهم يبنيان جسور مستقبلنا.",
           "fa": "گفتگو و تفاهم پل‌های آینده ما را می‌سازد."
         }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 20,
-        "full_date": "٢٠ی Reşeme ٢٧٢٤"
       }
     },
     {
       "date": "2025-03-11",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 20,
+        "full_date": "٢٠ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "20 Reşeme 2724"
+      },
       "isHoliday": true,
       "event": {
         "en": "Liberation of Erbil (Hawler) City",
-        "ku": "ڕزگارکردنی شارەکەی هەولێر",
-        "ar": "تحرير مدينة أربيل (هولير)",
-        "fa": "آزادسازی شهر اربیل (هولیر)"
+        "ku": "ڕزگارکردنی شاری هەولێر",
+        "ar": "تحرير مدينة أربيل",
+        "fa": "آزادسازی شهر اربیل"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "historical",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -147,29 +360,28 @@
           "ar": "",
           "fa": ""
         }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 20,
-        "full_date": "٢٠ی Reşeme ٢٧٢٤"
       }
     },
     {
       "date": "2025-03-14",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 23,
+        "full_date": "٢٣ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "23 Reşeme 2724"
+      },
       "isHoliday": true,
       "event": {
         "en": "Birthday of Mala Mustafa Barzani",
-        "ku": "ڕۆژی لە دایکبوونی ملا مستەفا بارزانی",
-        "ar": "ذكرى ميلاد ملا مصطفى بارزاني",
-        "fa": "سالروز تولد ملا مصطفی بارزانی"
+        "ku": "ساڵیادی لەدایکبوونی مستەفا بارزانی",
+        "ar": "ذكرى ميلاد مصطفى بارزاني",
+        "fa": "سالروز تولد مصطفی بارزانی"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "historical",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -178,29 +390,28 @@
           "ar": "تاريخنا مكتوب بحبر التضحية والشجاعة.",
           "fa": "تاریخ ما با جوهر فداکاری و شجاعت نوشته شده است."
         }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 23,
-        "full_date": "٢٣ی Reşeme ٢٧٢٤"
       }
     },
     {
       "date": "2025-03-14",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 23,
+        "full_date": "٢٣ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "23 Reşeme 2724"
+      },
       "isHoliday": false,
       "event": {
         "en": "Liberation of Duhok City",
-        "ku": "ڕزگارکردنی شارەکەی دهوک",
+        "ku": "ڕزگارکردنی شاری دهۆک",
         "ar": "تحرير مدينة دهوك",
         "fa": "آزادسازی شهر دهوک"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "historical",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -209,22 +420,25 @@
           "ar": "",
           "fa": ""
         }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 23,
-        "full_date": "٢٣ی Reşeme ٢٧٢٤"
       }
     },
     {
       "date": "2025-03-16",
+      "kurdish_date": {
+        "year": 2724,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 25,
+        "full_date": "٢٥ی ڕەشەمە ٢٧٢٤",
+        "full_date_latin": "25 Reşeme 2724"
+      },
       "isHoliday": false,
       "event": {
         "en": "Halabja Day",
-        "ku": "Rojê Halabja",
-        "ar": "يوم حلبجة",
-        "fa": "روز حلبجه"
+        "ku": "یادی کیمیابارانی هەڵەبجە",
+        "ar": "ذكرى قصف حلبجة بالأسلحة الكيمياوية",
+        "fa": "سالگرد بمباران شیمیایی حلبچه"
       },
       "note": {
         "en": "Commemoration of the chemical weapons bombardment on the city of Halabja",
@@ -232,6 +446,8 @@
         "ar": "إحياء ذكرى القصف بالأسلحة الكيميائية على مدينة حلبجة",
         "fa": "یادبود بمباران با سلاح‌های شیمیایی در شهر حلبجه"
       },
+      "region": "all",
+      "type": "commemoration",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -240,53 +456,55 @@
           "ar": "",
           "fa": ""
         }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 25,
-        "full_date": "٢٥ی Reşeme ٢٧٢٤"
       }
     },
     {
       "date": "2025-03-21",
-      "isHoliday": true,
-      "event": {
-        "en": "Liberation of Kirkuk City",
-        "ku": "ڕزگارکردنی شارەکەی کرکوک",
-        "ar": "تحرير مدينة كركوك",
-        "fa": "آزادسازی شهر کرکوک"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
       "kurdish_date": {
         "year": 2725,
         "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
         "day": 1,
-        "full_date": "١ی Xakelew ٢٧٢٥"
+        "full_date": "١ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "1 Xakelew 2725"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Liberation of Kirkuk City",
+        "ku": "ڕزگارکردنی شاری کەرکووک",
+        "ar": "تحرير مدينة كركوك",
+        "fa": "آزادسازی شهر کرکوک"
+      },
+      "region": "bashur",
+      "type": "historical",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-03-21",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 1,
+        "full_date": "١ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "1 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Nawroz Kurdish New Year",
-        "ku": "نەورۆز، ساڵی نوێی کوردی",
-        "ar": "نوروز، السنة الكردية الجديدة",
-        "fa": "نوروز، سال نو کردی"
+        "ku": "نەورۆز - سەری ساڵی کوردی",
+        "ar": "نوروز - رأس السنة الكوردية",
+        "fa": "نوروز - سال نو کردی"
       },
       "note": {
         "en": "Traditional celebration of spring and new year",
@@ -294,8 +512,8 @@
         "ar": "احتفال تقليدي بالربيع والسنة الجديدة",
         "fa": "جشن سنتی بهار و سال نو"
       },
-      "country": "Kurdistan",
-      "region": "All regions",
+      "region": "all",
+      "type": "cultural",
       "quote": {
         "celebrity": "Sherko Bekas",
         "quote": {
@@ -305,28 +523,34 @@
           "fa": "در هر سپیده‌دم، وعده‌ای برای تجدید وجود دارد."
         }
       },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 1,
-        "full_date": "١ی Xakelew ٢٧٢٥"
-      }
+      "country": "Kurdistan"
     },
     {
       "date": "2025-03-30",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 10,
+        "full_date": "١٠ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "10 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid-al-Fitr (End of Ramadan)",
-        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
-        "ar": "عيد الفطر (نهاية شهر رمضان)",
-        "fa": "عید فطر (پایان ماه رمضان)"
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Sherko Bekas",
         "quote": {
@@ -335,29 +559,34 @@
           "ar": "نهاية الصوم تمثل بداية الفرح والوحدة.",
           "fa": "پایان روزه آغاز شادی و وحدت است."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 10,
-        "full_date": "١٠ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-03-31",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 11,
+        "full_date": "١١ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "11 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid-al-Fitr (End of Ramadan)",
-        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
-        "ar": "عيد الفطر (نهاية شهر رمضان)",
-        "fa": "عید فطر (پایان ماه رمضان)"
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -366,29 +595,28 @@
           "ar": "في روح العيد، تتحد القلوب في الاحتفال.",
           "fa": "در روح عید، دل‌ها در جشن متحد می‌شوند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 11,
-        "full_date": "١١ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-04-01",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 12,
+        "full_date": "١٢ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "12 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Assyrian New Year",
-        "ku": "ساڵی نوێی ئاشووری",
-        "ar": "رأس السنة الآشورية",
-        "fa": "سال نو آشوری"
+        "ku": "سەری ساڵی بابلی-ئاشووری (ئەکیتۆ)",
+        "ar": "رأس السنة البابلية الآشورية (أكيتو)",
+        "fa": "سال نو آشوری (اکیتو)"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "cultural",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -397,29 +625,34 @@
           "ar": "الوحدة في التنوع تجعل مستقبلنا أكثر إشراقًا.",
           "fa": "وحدت در تنوع، آینده ما را روشن‌تر می‌کند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 12,
-        "full_date": "١٢ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-04-01",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 12,
+        "full_date": "١٢ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "12 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid-al-Fitr (End of Ramadan)",
-        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
-        "ar": "عيد الفطر (نهاية شهر رمضان)",
-        "fa": "عید فطر (پایان ماه رمضان)"
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -428,29 +661,34 @@
           "ar": "ليملأ بركة العيد حياتنا بالأمل والوحدة.",
           "fa": "باشد که برکت عید زندگی ما را پر از امید و وحدت کند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 12,
-        "full_date": "١٢ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-04-02",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 13,
+        "full_date": "١٣ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "13 Xakelew 2725"
+      },
       "isHoliday": false,
       "event": {
         "en": "Eid-al-Fitr (End of Ramadan)",
-        "ku": "جەژنی ڕەمەزان (کۆتایی مانگی ڕەمەزان)",
-        "ar": "عيد الفطر (نهاية شهر رمضان)",
-        "fa": "عید فطر (پایان ماه رمضان)"
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -459,29 +697,28 @@
           "ar": "دع روح العيد يجلب السلام والازدهار للجميع.",
           "fa": "بگذارید روح عید صلح و رفاه را به همه بیاورد."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 13,
-        "full_date": "١٣ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-04-09",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 20,
+        "full_date": "٢٠ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "20 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Baghdad Liberation Day (fall of Saddam Hussein's regime)",
-        "ku": "ڕۆژی ئازادكردنی بەغدا (ڕووخانی ڕژێمی سەدام حوسێن)",
+        "ku": "ڕۆژی ئازادکردنی بەغدا (ڕووخانی ڕژێمی سەدام حوسێن)",
         "ar": "يوم تحرير بغداد (سقوط نظام صدام حسين)",
-        "fa": "روز آزادی بغداد (سقوط رژیم صدام حسین)"
+        "fa": "روز آزادسازی بغداد (سقوط رژیم صدام حسین)"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "bashur",
+      "type": "official",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -490,22 +727,55 @@
           "ar": "الحرية حق فطري لكل إنسان.",
           "fa": "آزادی حق هر انسانی است."
         }
-      },
+      }
+    },
+    {
+      "date": "2025-04-14",
       "kurdish_date": {
         "year": 2725,
         "month": "Xakelew",
-        "day": 20,
-        "full_date": "٢٠ی Xakelew ٢٧٢٥"
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 25,
+        "full_date": "٢٥ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "25 Xakelew 2725"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Garmians' (Chamchamal and Kalar)",
+        "ku": "یادی ئەنفالی گەرمیان",
+        "ar": "ذكرى أنفال گرميان",
+        "fa": "یادبود انفال گرمیان"
+      },
+      "region": "bashur",
+      "type": "commemoration",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-04-16",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 27,
+        "full_date": "٢٧ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "27 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Yazidi New Year (Charshema Sor)",
-        "ku": "ساڵی نوێی ئێزیدی (چوارشەمە سوور)",
-        "ar": "السنة الأيزيدية الجديدة (جارشيما سور)",
-        "fa": "سال نو ایزدی (چارشما سور)"
+        "ku": "سەری ساڵی ئێزیدی (چوارشەممە سوور)",
+        "ar": "رأس السنة الإيزيدية (الأربعاء الأحمر)",
+        "fa": "سال نو ایزدی (چهارشنبه سرخ)"
       },
       "note": {
         "en": "First Wednesday after April 13 (Yazidi tradition)",
@@ -513,6 +783,8 @@
         "ar": "أول أربعاء بعد 13 أبريل (تقليد أيزيدي)",
         "fa": "اولین چهارشنبه بعد از ۱۳ آوریل (سنت ایزدی)"
       },
+      "region": "bashur",
+      "type": "religious",
       "quote": {
         "celebrity": "Sherko Bekas",
         "quote": {
@@ -521,22 +793,25 @@
           "ar": "البدايات الجديدة هي شعر الحياة.",
           "fa": "آغازهای نو، شعر زندگی هستند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 27,
-        "full_date": "٢٧ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-04-16",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 27,
+        "full_date": "٢٧ی خاکەلێوە ٢٧٢٥",
+        "full_date_latin": "27 Xakelew 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Commemoration of Chemical attack on Balisan",
-        "ku": "یادکردنی تێکدانی کیمیاوی سەر بالیسان",
-        "ar": "إحياء ذكرى الهجوم الكيميائي على بالیسان",
-        "fa": "یادبود حمله شیمیایی به بالیسان"
+        "ku": "یادی کیمیابارانی بالیسان",
+        "ar": "ذكرى القصف الكيمياوي على باليسان",
+        "fa": "یادبود بمباران شیمیایی بالیسان"
       },
       "note": {
         "en": "Commemoration of the chemical attack on Balisan, honoring the memory of those affected.",
@@ -544,6 +819,8 @@
         "ar": "إحياء ذكرى الهجوم الكيميائي على بالیسان، وتكريم ذكرى المتضررين.",
         "fa": "یادبود حمله شیمیایی به بالیسان، بزرگداشت یاد و خاطره‌ی آسیب‌دیدگان."
       },
+      "region": "bashur",
+      "type": "commemoration",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -552,29 +829,28 @@
           "ar": "",
           "fa": ""
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 27,
-        "full_date": "٢٧ی Xakelew ٢٧٢٥"
       }
     },
     {
       "date": "2025-04-22",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 2,
+        "full_date": "٢ی گوڵان ٢٧٢٥",
+        "full_date_latin": "2 Gullan 2725"
+      },
       "isHoliday": false,
       "event": {
         "en": "Kurdish Journalism Day",
-        "ku": "ڕۆژنامەگەری کوردی",
-        "ar": "يوم الصحافة الكردية",
+        "ku": "ڕۆژی ڕۆژنامەگەریی کوردی",
+        "ar": "يوم الصحافة الكوردية",
         "fa": "روز روزنامه‌نگاری کردی"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "all",
+      "type": "cultural",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -583,29 +859,58 @@
           "ar": "",
           "fa": ""
         }
-      },
+      }
+    },
+    {
+      "date": "2025-04-24",
       "kurdish_date": {
         "year": 2725,
         "month": "Gullan",
-        "day": 2,
-        "full_date": "٢ی Gullan ٢٧٢٥"
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 4,
+        "full_date": "٤ی گوڵان ٢٧٢٥",
+        "full_date_latin": "4 Gullan 2725"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Bombardment of Qaladze",
+        "ku": "یادی بۆردومانی قەڵادزێ",
+        "ar": "ذكرى قصف قلعة دزة",
+        "fa": "یادبود بمباران قلعه‌دیزه"
+      },
+      "region": "bashur",
+      "type": "commemoration",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-05-01",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 11,
+        "full_date": "١١ی گوڵان ٢٧٢٥",
+        "full_date_latin": "11 Gullan 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "International Labour Day",
-        "ku": "ڕۆژی نێودەوڵەتی کرێکاران",
-        "ar": "يوم العمال العالمي",
+        "ku": "ڕۆژی جیهانیی کرێکاران",
+        "ar": "عيد العمال العالمي",
         "fa": "روز جهانی کارگر"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "all",
+      "type": "official",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -614,16 +919,19 @@
           "ar": "العمل هو أساس تقدمنا وكرامتنا.",
           "fa": "کار بنیان پیشرفت و کرامت ماست."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Gullan",
-        "day": 11,
-        "full_date": "١١ی Gullan ٢٧٢٥"
       }
     },
     {
       "date": "2025-06-06",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
+        "day": 16,
+        "full_date": "١٦ی جۆزەردان ٢٧٢٥",
+        "full_date_latin": "16 Cozerdan 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid al-Qurban",
@@ -633,10 +941,12 @@
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -645,16 +955,19 @@
           "ar": "التضحية هي جوهر إيماننا وقوتنا.",
           "fa": "فداکاری جوهر ایمان و قدرت ماست."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Cozerdan",
-        "day": 16,
-        "full_date": "١٦ی Cozerdan ٢٧٢٥"
       }
     },
     {
       "date": "2025-06-07",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
+        "day": 17,
+        "full_date": "١٧ی جۆزەردان ٢٧٢٥",
+        "full_date_latin": "17 Cozerdan 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid al-Qurban",
@@ -664,10 +977,12 @@
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -676,16 +991,19 @@
           "ar": "في التضحية نجد الوحدة والهدف.",
           "fa": "در فداکاری، وحدت و هدفمان را می‌یابیم."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Cozerdan",
-        "day": 17,
-        "full_date": "١٧ی Cozerdan ٢٧٢٥"
       }
     },
     {
       "date": "2025-06-08",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
+        "day": 18,
+        "full_date": "١٨ی جۆزەردان ٢٧٢٥",
+        "full_date_latin": "18 Cozerdan 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid al-Qurban",
@@ -695,10 +1013,12 @@
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -707,16 +1027,19 @@
           "ar": "تضحياتنا تكرم إرث أجدادنا.",
           "fa": "فداکاری‌های ما، میراث نیاکانمان را گرامی می‌دارند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Cozerdan",
-        "day": 18,
-        "full_date": "١٨ی Cozerdan ٢٧٢٥"
       }
     },
     {
       "date": "2025-06-09",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
+        "day": 19,
+        "full_date": "١٩ی جۆزەردان ٢٧٢٥",
+        "full_date_latin": "19 Cozerdan 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Eid al-Qurban",
@@ -726,10 +1049,12 @@
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -738,29 +1063,34 @@
           "ar": "عسى تضحياتنا تمهد الطريق لمستقبل يسوده السلام.",
           "fa": "باشد که فداکاری‌های ما راه را برای آینده‌ای از صلح هموار کند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Cozerdan",
-        "day": 19,
-        "full_date": "١٩ی Cozerdan ٢٧٢٥"
       }
     },
     {
       "date": "2025-06-26",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Pûşper",
+        "month_number": 4,
+        "month_ku": "پووشپەڕ",
+        "day": 5,
+        "full_date": "٥ی پووشپەڕ ٢٧٢٥",
+        "full_date_latin": "5 Pûşper 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Muharram (Islamic New Year)",
-        "ku": "موحەڕەم (ساڵی نوێی ئیسلامی)",
-        "ar": "محرم (رأس السنة الهجرية)",
-        "fa": "محرم (سال نو اسلامی)"
+        "ku": "سەری ساڵی کۆچی",
+        "ar": "رأس السنة الهجرية",
+        "fa": "سال نو هجری قمری"
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -769,47 +1099,19 @@
           "ar": "السنة الجديدة تلهم التأمل والتجديد والوحدة.",
           "fa": "سال نو الهام‌بخش تأمل، نوسازی و وحدت است."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Pûşper",
-        "day": 5,
-        "full_date": "٥ی Pûşper ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2025-07-14",
-      "isHoliday": true,
-      "event": {
-        "en": "Republic Day of Iraq",
-        "ku": "ڕۆژی کۆماری عێراق",
-        "ar": "يوم الجمهورية العراقية",
-        "fa": "روز جمهوری عراق"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "Jalal Talabani",
-        "quote": {
-          "en": "A united Iraq is the foundation of our collective future.",
-          "ku": "عێراقێکی یەکگرتوو بنای داهاتی گشتی ئێمەیە.",
-          "ar": "عراق الموحد هو أساس مستقبلنا الجماعي.",
-          "fa": "عراق متحد، بنیان آینده مشترک ماست."
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Pûşper",
-        "day": 23,
-        "full_date": "٢٣ی Pûşper ٢٧٢٥"
       }
     },
     {
       "date": "2025-07-05",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Pûşper",
+        "month_number": 4,
+        "month_ku": "پووشپەڕ",
+        "day": 14,
+        "full_date": "١٤ی پووشپەڕ ٢٧٢٥",
+        "full_date_latin": "14 Pûşper 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Ashura",
@@ -819,10 +1121,12 @@
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -831,22 +1135,55 @@
           "ar": "في الذكرى نجد القوة لتجاوز أحزاننا.",
           "fa": "در یادآوری، قدرت غلبه بر اندوه‌هایمان را می‌یابیم."
         }
-      },
+      }
+    },
+    {
+      "date": "2025-07-14",
       "kurdish_date": {
         "year": 2725,
         "month": "Pûşper",
-        "day": 14,
-        "full_date": "١٤ی Pûşper ٢٧٢٥"
+        "month_number": 4,
+        "month_ku": "پووشپەڕ",
+        "day": 23,
+        "full_date": "٢٣ی پووشپەڕ ٢٧٢٥",
+        "full_date_latin": "23 Pûşper 2725"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Republic Day of Iraq",
+        "ku": "ساڵیادی شۆڕشی ١٤ی تەممووزی ١٩٥٨",
+        "ar": "ذكرى ثورة 14 تموز 1958",
+        "fa": "سالگرد انقلاب ۱۴ ژوئیه ۱۹۵۸"
+      },
+      "region": "bashur",
+      "type": "official",
+      "quote": {
+        "celebrity": "Jalal Talabani",
+        "quote": {
+          "en": "A united Iraq is the foundation of our collective future.",
+          "ku": "عێراقێکی یەکگرتوو بنای داهاتی گشتی ئێمەیە.",
+          "ar": "عراق الموحد هو أساس مستقبلنا الجماعي.",
+          "fa": "عراق متحد، بنیان آینده مشترک ماست."
+        }
       }
     },
     {
       "date": "2025-07-31",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Gelawêj",
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 9,
+        "full_date": "٩ی گەلاوێژ ٢٧٢٥",
+        "full_date_latin": "9 Gelawêj 2725"
+      },
       "isHoliday": false,
       "event": {
         "en": "Commemoration of Anfal Genocide against the Barzanis",
-        "ku": "یادکردنی نسل‌کشی ئانفال لەسەر بارزانیان",
-        "ar": "إحياء ذكرى إبادة أنفال ضد البارزانيين",
-        "fa": "یادبود نسل‌کشی آنفال علیه بارزانی‌ها"
+        "ku": "یادی ئەنفالکردنی بارزانییەکان",
+        "ar": "ذكرى أنفال البارزانيين",
+        "fa": "یادبود انفال بارزانی‌ها"
       },
       "note": {
         "en": "Commemoration of the genocide inflicted on the Barzani community during the Anfal campaign.",
@@ -854,6 +1191,8 @@
         "ar": "إحياء ذكرى الإبادة الجماعية التي تعرضت لها جماعة البارزانيين خلال حملة أنفال.",
         "fa": "یادبود نسل‌کشی آنفال علیه جامعه بارزانی‌ها در جریان کمپین آنفال."
       },
+      "region": "bashur",
+      "type": "commemoration",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -862,22 +1201,25 @@
           "ar": "",
           "fa": ""
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Gelawêj",
-        "day": 9,
-        "full_date": "٩ی Gelawêj ٢٧٢٥"
       }
     },
     {
       "date": "2025-08-03",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Gelawêj",
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 12,
+        "full_date": "١٢ی گەلاوێژ ٢٧٢٥",
+        "full_date_latin": "12 Gelawêj 2725"
+      },
       "isHoliday": false,
       "event": {
         "en": "Commemoration of Yazidis' Genocide",
-        "ku": "یادکردنی نسل‌کشی یەزیدەکان",
-        "ar": "إحياء ذكرى إبادة اليزيديين",
-        "fa": "یادبود نسل‌کشی یزیدی‌ها"
+        "ku": "یادی جینۆسایدی ئێزیدییەکان",
+        "ar": "ذكرى الإبادة الجماعية للإيزيديين",
+        "fa": "یادبود نسل‌کشی ایزدیان"
       },
       "note": {
         "en": "Commemoration of the genocide inflicted on the Yazidi community.",
@@ -885,6 +1227,8 @@
         "ar": "إحياء ذكرى الإبادة الجماعية التي تعرضت لها جماعة اليزيديين.",
         "fa": "یادبود نسل‌کشی علیه جامعه یزیدی‌ها."
       },
+      "region": "bashur",
+      "type": "commemoration",
       "quote": {
         "celebrity": "",
         "quote": {
@@ -893,29 +1237,94 @@
           "ar": "",
           "fa": ""
         }
-      },
+      }
+    },
+    {
+      "date": "2025-08-07",
       "kurdish_date": {
         "year": 2725,
         "month": "Gelawêj",
-        "day": 12,
-        "full_date": "١٢ی Gelawêj ٢٧٢٥"
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 16,
+        "full_date": "١٦ی گەلاوێژ ٢٧٢٥",
+        "full_date_latin": "16 Gelawêj 2725"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Assyrian Martyrs",
+        "ku": "ڕۆژی شەهیدانی ئاشووری",
+        "ar": "يوم الشهيد الآشوري",
+        "fa": "روز شهدای آشوری"
+      },
+      "region": "bashur",
+      "type": "commemoration",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-08-25",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xermanan",
+        "month_number": 6,
+        "month_ku": "خەرمانان",
+        "day": 3,
+        "full_date": "٣ی خەرمانان ٢٧٢٥",
+        "full_date_latin": "3 Xermanan 2725"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Badinans'",
+        "ku": "یادی ئەنفالی بادینان",
+        "ar": "ذكرى أنفال بادينان",
+        "fa": "یادبود انفال بادینان"
+      },
+      "region": "bashur",
+      "type": "commemoration",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-09-04",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Xermanan",
+        "month_number": 6,
+        "month_ku": "خەرمانان",
+        "day": 13,
+        "full_date": "١٣ی خەرمانان ٢٧٢٥",
+        "full_date_latin": "13 Xermanan 2725"
+      },
       "isHoliday": false,
       "event": {
         "en": "Birthday of Prophet Mohammed (PBUH)",
-        "ku": "ڕۆژی لە دایکبوونی پێغەمبەر محەمەد (د.خ)",
-        "ar": "ذكرى مولد النبي محمد (ص)",
-        "fa": "میلاد پیامبر اسلام حضرت محمد (ص)"
+        "ku": "یادی لەدایکبوونی پێغەمبەر (د.خ)",
+        "ar": "المولد النبوي الشريف",
+        "fa": "میلاد پیامبر اسلام (ص)"
       },
       "note": {
         "en": "Estimated date, subject to moon sighting",
-        "ku": "ڕێکەوتی خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
-        "ar": "تاريخ تقديري، يخضع لرؤية الهلال",
-        "fa": "تاریخ تخمینی، تابع رؤیت هلال ماه"
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
       },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Jalal Talabani",
         "quote": {
@@ -924,29 +1333,88 @@
           "ar": "تعاليم النبي تضيء طريق البر.",
           "fa": "تعالیم پیامبر راه راست را روشن می‌کند."
         }
-      },
+      }
+    },
+    {
+      "date": "2025-11-17",
       "kurdish_date": {
         "year": 2725,
-        "month": "Xermanan",
-        "day": 13,
-        "full_date": "١٣ی Xermanan ٢٧٢٥"
+        "month": "Gelarêzan",
+        "month_number": 8,
+        "month_ku": "گەڵاڕێزان",
+        "day": 26,
+        "full_date": "٢٦ی گەڵاڕێزان ٢٧٢٥",
+        "full_date_latin": "26 Gelarêzan 2725"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Turkmen's Culture and Language Day",
+        "ku": "ڕۆژی کولتوور و زمانی تورکمانی",
+        "ar": "يوم الثقافة واللغة التركمانية",
+        "fa": "روز فرهنگ و زبان ترکمن"
+      },
+      "region": "bashur",
+      "type": "cultural",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Sermawez",
+        "month_number": 9,
+        "month_ku": "سەرماوەز",
+        "day": 26,
+        "full_date": "٢٦ی سەرماوەز ٢٧٢٥",
+        "full_date_latin": "26 Sermawez 2725"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdistan Flag Day",
+        "ku": "ڕۆژی ئاڵای کوردستان",
+        "ar": "يوم علم كوردستان",
+        "fa": "روز پرچم کردستان"
+      },
+      "region": "all",
+      "type": "cultural",
+      "quote": {
+        "celebrity": "",
+        "quote": {
+          "en": "",
+          "ku": "",
+          "ar": "",
+          "fa": ""
+        }
       }
     },
     {
       "date": "2025-12-25",
+      "kurdish_date": {
+        "year": 2725,
+        "month": "Befranbar",
+        "month_number": 10,
+        "month_ku": "بەفرانبار",
+        "day": 4,
+        "full_date": "٤ی بەفرانبار ٢٧٢٥",
+        "full_date_latin": "4 Befranbar 2725"
+      },
       "isHoliday": true,
       "event": {
         "en": "Christmas Day",
-        "ku": "ڕۆژی کریسمس",
-        "ar": "عيد الميلاد",
+        "ku": "جەژنی لەدایکبوونی مەسیح (کریسمس)",
+        "ar": "عيد الميلاد المجيد",
         "fa": "کریسمس"
       },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
+      "region": "all",
+      "type": "religious",
       "quote": {
         "celebrity": "Masoud Barzani",
         "quote": {
@@ -955,614 +1423,6 @@
           "ar": "السلام والنوايا الحسنة هي الهدايا الحقيقية لهذا الموسم.",
           "fa": "صلح و نیت خیر، هدیه‌های واقعی این فصل هستند."
         }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Befranbar",
-        "day": 4,
-        "full_date": "٤ی Befranbar ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2024-03-21",
-      "isHoliday": true,
-      "event": {
-        "en": "Nawroz - Kurdish New Year",
-        "ku": "نەورۆز - سەری ساڵی کوردی",
-        "ar": "نوروز - رأس السنة الكردية",
-        "fa": "نوروز - سال نو کردی"
-      },
-      "note": {
-        "en": "Traditional celebration of spring and new year",
-        "ku": "جەژنی بەهار و ساڵی نوێ",
-        "ar": "احتفال تقليدي بالربيع والسنة الجديدة",
-        "fa": "جشن سنتی بهار و سال نو"
-      },
-      "country": "Kurdistan",
-      "region": "All regions",
-      "quote": {
-        "celebrity": "Sherko Bekas",
-        "quote": {
-          "en": "Nawroz is a celebration of our enduring spirit and heritage.",
-          "ku": "نەورۆز جەژنی هەستی ماندوو و میراثمانە.",
-          "ar": "نوروز احتفال بروحنا وإرثنا الدائم.",
-          "fa": "نوروز جشن روح و میراث پایدار ماست."
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Xakelew",
-        "day": 1,
-        "full_date": "١ی Xakelew ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2024-12-10",
-      "isHoliday": false,
-      "event": {
-        "en": "Kurdish Flag Day",
-        "ku": "ڕۆژی ئاڵای کوردستان",
-        "ar": "يوم العلم الكردي",
-        "fa": "روز پرچم کردستان"
-      },
-      "country": "Iraq",
-      "region": "South Kurdistan",
-      "quote": {
-        "celebrity": "Jalal Talabani",
-        "quote": {
-          "en": "Our flag symbolizes the courage and unity of our people.",
-          "ku": "ئاڵای ئێمە نیشانی دلیری و یەکگرتنی خەڵکەکانمانە.",
-          "ar": "علمنا يرمز إلى شجاعة ووحدة شعبنا.",
-          "fa": "پرچم ما نماد شجاعت و وحدت مردم ماست."
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Sermawez",
-        "day": 19,
-        "full_date": "١٩ی Sermawez ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2024-03-16",
-      "isHoliday": false,
-      "event": {
-        "en": "Halabja Memorial Day",
-        "ku": "یادی کیمیابارانی هەڵەبجە",
-        "ar": "ذكرى حلبجة",
-        "fa": "یادبود حلبجه"
-      },
-      "country": "Iraq",
-      "region": "South Kurdistan",
-      "quote": {
-        "celebrity": "Masoud Barzani",
-        "quote": {
-          "en": "We remember Halabja to honor the sacrifice of our martyrs.",
-          "ku": "بیر لە هەڵەبجە دەکەین بۆ سەرفرازی فداکاری شهیدەکانمان.",
-          "ar": "نحن نذكر حلبجة لتكريم تضحيات شهدائنا.",
-          "fa": "ما هلالبجا را به یاد می‌آوریم تا فداکاری شهدایمان را تجلیل کنیم."
-        }
-      },
-      "kurdish_date": {
-        "year": 2723,
-        "month": "Reşeme",
-        "day": 26,
-        "full_date": "٢٦ی Reşeme ٢٧٢٣"
-      }
-    },
-    {
-      "date": "2024-03-14",
-      "isHoliday": false,
-      "event": {
-        "en": "Kurdish Clothing Day",
-        "ku": "ڕۆژی جلوبەرگی کوردی",
-        "ar": "يوم الملابس الكردية",
-        "fa": "روز لباس کردی"
-      },
-      "country": "Iran",
-      "region": "East Kurdistan",
-      "quote": {
-        "celebrity": "Sherko Bekas",
-        "quote": {
-          "en": "Traditional attire is the fabric of our cultural identity.",
-          "ku": "جلوبەرگی کۆن ڕووسای نیشانی کلتوری ئێمەیە.",
-          "ar": "الزي التقليدي هو نسيج هويتنا الثقافية.",
-          "fa": "لباس سنتی، پارچه هویت فرهنگی ماست."
-        }
-      },
-      "kurdish_date": {
-        "year": 2723,
-        "month": "Reşeme",
-        "day": 24,
-        "full_date": "٢٤ی Reşeme ٢٧٢٣"
-      }
-    },
-    {
-      "date": "2024-03-05",
-      "isHoliday": true,
-      "event": {
-        "en": "Kurdish Uprising Day",
-        "ku": "ڕۆژی ڕاپەڕینی کوردستان",
-        "ar": "يوم الانتفاضة الكردية",
-        "fa": "روز قیام کردستان"
-      },
-      "note": {
-        "en": "Anniversary of the 1991 Kurdish uprising",
-        "ku": "ساڵیادی ڕاپەڕینی ١٩٩١ی کوردستان",
-        "ar": "ذكرى الانتفاضة الكردية عام 1991",
-        "fa": "سالگرد قیام کردستان در سال 1991"
-      },
-      "quote": {
-        "celebrity": "Jalal Talabani",
-        "quote": {
-          "en": "The spirit of uprising lives in every Kurdish heart.",
-          "ku": "ڕوحی ڕاپەڕین لە هەموو دڵی کوردەکان دەژی.",
-          "ar": "روح الانتفاضة تعيش في كل قلب كردي.",
-          "fa": "روح قیام در هر دل کرد وجود دارد."
-        }
-      },
-      "kurdish_date": {
-        "year": 2723,
-        "month": "Reşeme",
-        "day": 15,
-        "full_date": "١٥ی Reşeme ٢٧٢٣"
-      }
-    },
-    {
-      "date": "2024-08-15",
-      "isHoliday": false,
-      "event": {
-        "en": "Mahabad Republic Day",
-        "ku": "ڕۆژی کۆماری مەهاباد",
-        "ar": "يوم جمهورية مهاباد",
-        "fa": "روز جمهوری مهاباد"
-      },
-      "country": "Iran",
-      "region": "East Kurdistan",
-      "quote": {
-        "celebrity": "Masoud Barzani",
-        "quote": {
-          "en": "Mahabad reminds us that freedom is the path to true democracy.",
-          "ku": "مەهاباد بۆمان بەردەوامی ئازادی و دیموکراسی ڕوون دەکات.",
-          "ar": "مهاباد تذكرنا بأن الحرية هي الطريق إلى الديمقراطية الحقيقية.",
-          "fa": "مهاباد به ما یادآوری می‌کند که آزادی راه دموکراسی واقعی است."
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Gelawêj",
-        "day": 24,
-        "full_date": "٢٤ی Gelawêj ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2024-01-22",
-      "isHoliday": false,
-      "event": {
-        "en": "Kurdistan Parliament Day",
-        "ku": "ڕۆژی پەرلەمانی کوردستان",
-        "ar": "يوم البرلمان الكردستاني",
-        "fa": "روز پارلمان کردستان"
-      },
-      "country": "Iraq",
-      "region": "South Kurdistan",
-      "quote": {
-        "celebrity": "Jalal Talabani",
-        "quote": {
-          "en": "Our parliament is the voice of the people, echoing justice and hope.",
-          "ku": "پەرلەمانمان دەنگی خەڵکە، بە ئاوازێکی داد و هیوامان دەنگ دەدات.",
-          "ar": "برلماننا هو صوت الشعب، يعكس العدالة والأمل.",
-          "fa": "پارلمان ما صدای مردم است که عدالت و امید را بازتاب می‌دهد."
-        }
-      },
-      "kurdish_date": {
-        "year": 2723,
-        "month": "Rêbendan",
-        "day": 2,
-        "full_date": "٢ی Rêbendan ٢٧٢٣"
-      }
-    },
-    {
-      "date": "2025-01-14",
-      "isHoliday": false,
-      "event": {
-        "en": "Feast of Qawltas",
-        "ku": "جشن قاولطاس",
-        "ar": "عيد قاولطاس",
-        "fa": "جشن قاولتاس"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Befranbar",
-        "day": 24,
-        "full_date": "٢٤ی Befranbar ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-01-22",
-      "isHoliday": false,
-      "event": {
-        "en": "Establishment of Republic of Mahabad Day",
-        "ku": "ڕۆژی دامەزراندنی کۆماری مەهاباد",
-        "ar": "يوم تأسيس جمهورية مهاباد",
-        "fa": "روز تأسیس جمهوری مهاباد"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Rêbendan",
-        "day": 2,
-        "full_date": "٢ی Rêbendan ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-02-01",
-      "isHoliday": false,
-      "event": {
-        "en": "Erbil Deadly Twin Terrorist attacks",
-        "ku": "دو هێرشی ترۆریستی مرگبار لە هەولێر",
-        "ar": "هجمات إرهابية مزدوجة قاتلة في أربيل",
-        "fa": "حملات تروریستی دوگانه مرگبار در اربیل"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Rêbendan",
-        "day": 12,
-        "full_date": "١٢ی Rêbendan ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-02-25",
-      "isHoliday": false,
-      "event": {
-        "en": "Turkmen's Journalism Day",
-        "ku": "ڕۆژی ڕۆژنامەوانیی تورکمن",
-        "ar": "يوم الصحافة التركمانية",
-        "fa": "روز روزنامه‌نگاری ترکمن"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 6,
-        "full_date": "٦ی Reşeme ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-03-01",
-      "isHoliday": false,
-      "event": {
-        "en": "Commemoration of Mustafa Barzani's Passing",
-        "ku": "بەیادگێڕانی ڕەحلتی مستەفا بارزانی",
-        "ar": "إحياء ذكرى رحيل مصطفى بارزاني",
-        "fa": "یادبود رحلت مصطفی بارزانی"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 10,
-        "full_date": "١٠ی Reşeme ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-03-07",
-      "isHoliday": false,
-      "event": {
-        "en": "Liberation of Slemani City",
-        "ku": "ڕزگرتنی شاری سلێمانی",
-        "ar": "تحرير مدينة السليمانية",
-        "fa": "رهایی شهر سلیمانی"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 16,
-        "full_date": "١٦ی Reşeme ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-03-08",
-      "isHoliday": false,
-      "event": {
-        "en": "Women's Day",
-        "ku": "ڕۆژی ژنان",
-        "ar": "يوم المرأة",
-        "fa": "روز زنان"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2724,
-        "month": "Reşeme",
-        "day": 17,
-        "full_date": "١٧ی Reşeme ٢٧٢٤"
-      }
-    },
-    {
-      "date": "2025-04-14",
-      "isHoliday": false,
-      "event": {
-        "en": "Commemoration of Anfal Genocide against the Garmians' (Chamchamal and Kalar)",
-        "ku": "بەیادگێڕانی جەنوای ئەنفال بەسەر گەرمیان (چەمچەماڵ و کەلار)",
-        "ar": "إحياء ذكرى إبادة أنفال ضد الجرميانيين (شمشمال وكالار)",
-        "fa": "یادبود نسل‌کشی آنفال علیه گرمیان (چمچمال و کالار)"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xakelew",
-        "day": 25,
-        "full_date": "٢٥ی Xakelew ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2025-04-24",
-      "isHoliday": false,
-      "event": {
-        "en": "Commemoration of Bombardment of Qaladze",
-        "ku": "بەیادگێڕانی قصفی قەلادزە",
-        "ar": "إحياء ذكرى قصف قلدزة",
-        "fa": "یادبود قصف قلادزه"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Gullan",
-        "day": 4,
-        "full_date": "٤ی Gullan ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2025-08-07",
-      "isHoliday": false,
-      "event": {
-        "en": "Commemoration of Assyrian Martyrs",
-        "ku": "بەیادگێڕانی شەهیدانی ئەسوری",
-        "ar": "إحياء ذكرى شهداء الآشوريين",
-        "fa": "یادبود شهیدان آشوری"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Gelawêj",
-        "day": 16,
-        "full_date": "١٦ی Gelawêj ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2025-08-25",
-      "isHoliday": false,
-      "event": {
-        "en": "Commemoration of Anfal Genocide against the Badinans'",
-        "ku": "بەیادگێڕانی جەنوای ئەنفال بەسەر بادینان",
-        "ar": "إحياء ذكرى إبادة أنفال ضد البادينانيين",
-        "fa": "یادبود نسل‌کشی آنفال علیه بادینان"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Xermanan",
-        "day": 3,
-        "full_date": "٣ی Xermanan ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2025-11-17",
-      "isHoliday": false,
-      "event": {
-        "en": "Turkmen's Culture and Language Day",
-        "ku": "ڕۆژی کلتوری و زمانی تورکمن",
-        "ar": "يوم الثقافة واللغة التركمانية",
-        "fa": "روز فرهنگ و زبان ترکمن"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Gelarêzan",
-        "day": 26,
-        "full_date": "٢٦ی Gelarêzan ٢٧٢٥"
-      }
-    },
-    {
-      "date": "2025-12-17",
-      "isHoliday": false,
-      "event": {
-        "en": "Kurdistan Flag Day",
-        "ku": "ڕۆژی ئاڵای کوردستان",
-        "ar": "يوم علم كردستان",
-        "fa": "روز پرچم کوردستان"
-      },
-      "note": {
-        "en": "",
-        "ku": "",
-        "ar": "",
-        "fa": ""
-      },
-      "quote": {
-        "celebrity": "",
-        "quote": {
-          "en": "",
-          "ku": "",
-          "ar": "",
-          "fa": ""
-        }
-      },
-      "kurdish_date": {
-        "year": 2725,
-        "month": "Sermawez",
-        "day": 26,
-        "full_date": "٢٦ی Sermawez ٢٧٢٥"
       }
     }
   ]

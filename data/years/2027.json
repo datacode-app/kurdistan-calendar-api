@@ -1,0 +1,1194 @@
+{
+  "year": 2027,
+  "status": "projected",
+  "sources": [],
+  "holidays": [
+    {
+      "date": "2027-01-01",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Befranbar",
+        "month_number": 10,
+        "month_ku": "بەفرانبار",
+        "day": 11,
+        "full_date": "١١ی بەفرانبار ٢٧٢٦",
+        "full_date_latin": "11 Befranbar 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "New Year's Day",
+        "ku": "سەری ساڵی زایینی",
+        "ar": "رأس السنة الميلادية",
+        "fa": "آغاز سال نو میلادی"
+      },
+      "region": "all",
+      "type": "official"
+    },
+    {
+      "date": "2027-01-22",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
+        "day": 2,
+        "full_date": "٢ی ڕێبەندان ٢٧٢٦",
+        "full_date_latin": "2 Rêbendan 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Establishment of Republic of Mahabad Day",
+        "ku": "ڕۆژی دامەزراندنی کۆماری کوردستان (مەهاباد)",
+        "ar": "ذكرى تأسيس جمهورية كوردستان (مهاباد)",
+        "fa": "سالروز تأسیس جمهوری کردستان (مهاباد)"
+      },
+      "region": "all",
+      "type": "historical"
+    },
+    {
+      "date": "2027-02-01",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Rêbendan",
+        "month_number": 11,
+        "month_ku": "ڕێبەندان",
+        "day": 12,
+        "full_date": "١٢ی ڕێبەندان ٢٧٢٦",
+        "full_date_latin": "12 Rêbendan 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Erbil Deadly Twin Terrorist attacks",
+        "ku": "یادی تەقینەوەکانی ١ی شوباتی هەولێر",
+        "ar": "ذكرى تفجيري أربيل في 1 شباط",
+        "fa": "یادبود بمب‌گذاری‌های اول فوریه اربیل"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-02-25",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 6,
+        "full_date": "٦ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "6 Reşeme 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Turkmen's Journalism Day",
+        "ku": "ڕۆژی ڕۆژنامەگەریی تورکمانی",
+        "ar": "يوم الصحافة التركمانية",
+        "fa": "روز روزنامه‌نگاری ترکمن"
+      },
+      "region": "bashur",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-03-01",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 10,
+        "full_date": "١٠ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "10 Reşeme 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Mustafa Barzani's Passing",
+        "ku": "یادی کۆچی دوایی مستەفا بارزانی",
+        "ar": "ذكرى رحيل مصطفى بارزاني",
+        "fa": "سالگرد درگذشت مصطفی بارزانی"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-03-05",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 14,
+        "full_date": "١٤ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "14 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Uprising Day (against Saddam Hussein's regime)",
+        "ku": "ساڵیادی ڕاپەڕینی ساڵی ١٩٩١",
+        "ar": "ذكرى انتفاضة عام 1991",
+        "fa": "سالگرد قیام ۱۹۹۱"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-07",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 16,
+        "full_date": "١٦ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "16 Reşeme 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Liberation of Slemani City",
+        "ku": "ڕزگارکردنی شاری سلێمانی",
+        "ar": "تحرير مدينة السليمانية",
+        "fa": "آزادسازی شهر سلیمانیه"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-08",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 17,
+        "full_date": "١٧ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "17 Reşeme 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Women's Day",
+        "ku": "ڕۆژی جیهانیی ژنان",
+        "ar": "اليوم العالمي للمرأة",
+        "fa": "روز جهانی زن"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-03-09",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 18,
+        "full_date": "١٨ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "18 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-03-10",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 19,
+        "full_date": "١٩ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "19 Reşeme 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "National Kurdish Clothing Day",
+        "ku": "ڕۆژی جلوبەرگی کوردی",
+        "ar": "يوم الزي الكوردي",
+        "fa": "روز لباس کردی"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-03-10",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 19,
+        "full_date": "١٩ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "19 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-03-11",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 20,
+        "full_date": "٢٠ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "20 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Anniversary of 11 March Agreement (1970)",
+        "ku": "ساڵیادی ڕێککەوتننامەی ١١ی ئازاری ١٩٧٠",
+        "ar": "ذكرى اتفاقية 11 آذار 1970",
+        "fa": "سالگرد توافق‌نامه ۱۱ مارس ۱۹۷۰"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-11",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 20,
+        "full_date": "٢٠ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "20 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Liberation of Erbil (Hawler) City",
+        "ku": "ڕزگارکردنی شاری هەولێر",
+        "ar": "تحرير مدينة أربيل",
+        "fa": "آزادسازی شهر اربیل"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-11",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 20,
+        "full_date": "٢٠ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "20 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid-al-Fitr (End of Ramadan)",
+        "ku": "جەژنی ڕەمەزان",
+        "ar": "عيد الفطر",
+        "fa": "عید فطر"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-03-14",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 23,
+        "full_date": "٢٣ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "23 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Birthday of Mala Mustafa Barzani",
+        "ku": "ساڵیادی لەدایکبوونی مستەفا بارزانی",
+        "ar": "ذكرى ميلاد مصطفى بارزاني",
+        "fa": "سالروز تولد مصطفی بارزانی"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-14",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 23,
+        "full_date": "٢٣ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "23 Reşeme 2726"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Liberation of Duhok City",
+        "ku": "ڕزگارکردنی شاری دهۆک",
+        "ar": "تحرير مدينة دهوك",
+        "fa": "آزادسازی شهر دهوک"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-16",
+      "kurdish_date": {
+        "year": 2726,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 25,
+        "full_date": "٢٥ی ڕەشەمە ٢٧٢٦",
+        "full_date_latin": "25 Reşeme 2726"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Halabja Day",
+        "ku": "یادی کیمیابارانی هەڵەبجە",
+        "ar": "ذكرى قصف حلبجة بالأسلحة الكيمياوية",
+        "fa": "سالگرد بمباران شیمیایی حلبچه"
+      },
+      "region": "all",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-03-21",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 1,
+        "full_date": "١ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "1 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Liberation of Kirkuk City",
+        "ku": "ڕزگارکردنی شاری کەرکووک",
+        "ar": "تحرير مدينة كركوك",
+        "fa": "آزادسازی شهر کرکوک"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-03-21",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 1,
+        "full_date": "١ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "1 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Nawroz Kurdish New Year",
+        "ku": "نەورۆز - سەری ساڵی کوردی",
+        "ar": "نوروز - رأس السنة الكوردية",
+        "fa": "نوروز - سال نو کردی"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-03-22",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 2,
+        "full_date": "٢ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "2 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Nawroz Kurdish New Year",
+        "ku": "نەورۆز - سەری ساڵی کوردی",
+        "ar": "نوروز - رأس السنة الكوردية",
+        "fa": "نوروز - سال نو کردی"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-03-23",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 3,
+        "full_date": "٣ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "3 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Nawroz Kurdish New Year",
+        "ku": "نەورۆز - سەری ساڵی کوردی",
+        "ar": "نوروز - رأس السنة الكوردية",
+        "fa": "نوروز - سال نو کردی"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-03-28",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 8,
+        "full_date": "٨ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "8 Xakelew 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Easter",
+        "ku": "جەژنی هەستانەوەی مەسیح",
+        "ar": "عيد القيامة",
+        "fa": "عید پاک"
+      },
+      "note": {
+        "en": "Holiday for Christians",
+        "ku": "پشوو بۆ مەسیحییەکان",
+        "ar": "عطلة للمسيحيين",
+        "fa": "تعطیل برای مسیحیان"
+      },
+      "region": "all",
+      "type": "religious"
+    },
+    {
+      "date": "2027-04-01",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 12,
+        "full_date": "١٢ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "12 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Assyrian New Year",
+        "ku": "سەری ساڵی بابلی-ئاشووری (ئەکیتۆ)",
+        "ar": "رأس السنة البابلية الآشورية (أكيتو)",
+        "fa": "سال نو آشوری (اکیتو)"
+      },
+      "region": "bashur",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-04-09",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 20,
+        "full_date": "٢٠ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "20 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Baghdad Liberation Day (fall of Saddam Hussein's regime)",
+        "ku": "ڕۆژی ئازادکردنی بەغدا (ڕووخانی ڕژێمی سەدام حوسێن)",
+        "ar": "يوم تحرير بغداد (سقوط نظام صدام حسين)",
+        "fa": "روز آزادسازی بغداد (سقوط رژیم صدام حسین)"
+      },
+      "region": "bashur",
+      "type": "official"
+    },
+    {
+      "date": "2027-04-14",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 25,
+        "full_date": "٢٥ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "25 Xakelew 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Garmians' (Chamchamal and Kalar)",
+        "ku": "یادی ئەنفالی گەرمیان",
+        "ar": "ذكرى أنفال گرميان",
+        "fa": "یادبود انفال گرمیان"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-04-14",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 25,
+        "full_date": "٢٥ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "25 Xakelew 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Yazidi New Year (Charshema Sor)",
+        "ku": "سەری ساڵی ئێزیدی (چوارشەممە سوور)",
+        "ar": "رأس السنة الإيزيدية (الأربعاء الأحمر)",
+        "fa": "سال نو ایزدی (چهارشنبه سرخ)"
+      },
+      "note": {
+        "en": "First Wednesday of April in the Julian calendar",
+        "ku": "یەکەم چوارشەممەی مانگی نیسان بەپێی ڕۆژژمێری جولیانی",
+        "ar": "أول أربعاء من شهر نيسان حسب التقويم اليولياني",
+        "fa": "نخستین چهارشنبه آوریل در تقویم ژولینی"
+      },
+      "region": "bashur",
+      "type": "religious"
+    },
+    {
+      "date": "2027-04-16",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
+        "day": 27,
+        "full_date": "٢٧ی خاکەلێوە ٢٧٢٧",
+        "full_date_latin": "27 Xakelew 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Chemical attack on Balisan",
+        "ku": "یادی کیمیابارانی بالیسان",
+        "ar": "ذكرى القصف الكيمياوي على باليسان",
+        "fa": "یادبود بمباران شیمیایی بالیسان"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-04-22",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 2,
+        "full_date": "٢ی گوڵان ٢٧٢٧",
+        "full_date_latin": "2 Gullan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdish Journalism Day",
+        "ku": "ڕۆژی ڕۆژنامەگەریی کوردی",
+        "ar": "يوم الصحافة الكوردية",
+        "fa": "روز روزنامه‌نگاری کردی"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-04-24",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 4,
+        "full_date": "٤ی گوڵان ٢٧٢٧",
+        "full_date_latin": "4 Gullan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Bombardment of Qaladze",
+        "ku": "یادی بۆردومانی قەڵادزێ",
+        "ar": "ذكرى قصف قلعة دزة",
+        "fa": "یادبود بمباران قلعه‌دیزه"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-05-01",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 11,
+        "full_date": "١١ی گوڵان ٢٧٢٧",
+        "full_date_latin": "11 Gullan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "International Labour Day",
+        "ku": "ڕۆژی جیهانیی کرێکاران",
+        "ar": "عيد العمال العالمي",
+        "fa": "روز جهانی کارگر"
+      },
+      "region": "all",
+      "type": "official"
+    },
+    {
+      "date": "2027-05-15",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 25,
+        "full_date": "٢٥ی گوڵان ٢٧٢٧",
+        "full_date_latin": "25 Gullan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdish Language Day",
+        "ku": "ڕۆژی زمانی کوردی",
+        "ar": "يوم اللغة الكوردية",
+        "fa": "روز زبان کردی"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-05-15",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 25,
+        "full_date": "٢٥ی گوڵان ٢٧٢٧",
+        "full_date_latin": "25 Gullan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Day of Arafah (Eid al-Qurban eve)",
+        "ku": "ڕۆژی عەرەفە",
+        "ar": "يوم عرفة",
+        "fa": "روز عرفه"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-05-16",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 26,
+        "full_date": "٢٦ی گوڵان ٢٧٢٧",
+        "full_date_latin": "26 Gullan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-05-17",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 27,
+        "full_date": "٢٧ی گوڵان ٢٧٢٧",
+        "full_date_latin": "27 Gullan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-05-18",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 28,
+        "full_date": "٢٨ی گوڵان ٢٧٢٧",
+        "full_date_latin": "28 Gullan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-05-19",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gullan",
+        "month_number": 2,
+        "month_ku": "گوڵان",
+        "day": 29,
+        "full_date": "٢٩ی گوڵان ٢٧٢٧",
+        "full_date_latin": "29 Gullan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Eid al-Qurban",
+        "ku": "جەژنی قوربان",
+        "ar": "عيد الأضحى",
+        "fa": "عید قربان"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-06-06",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
+        "day": 16,
+        "full_date": "١٦ی جۆزەردان ٢٧٢٧",
+        "full_date_latin": "16 Cozerdan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Muharram (Islamic New Year)",
+        "ku": "سەری ساڵی کۆچی",
+        "ar": "رأس السنة الهجرية",
+        "fa": "سال نو هجری قمری"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-06-15",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
+        "day": 25,
+        "full_date": "٢٥ی جۆزەردان ٢٧٢٧",
+        "full_date_latin": "25 Cozerdan 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Ashura",
+        "ku": "عاشوورا",
+        "ar": "عاشوراء",
+        "fa": "عاشورا"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-07-14",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Pûşper",
+        "month_number": 4,
+        "month_ku": "پووشپەڕ",
+        "day": 23,
+        "full_date": "٢٣ی پووشپەڕ ٢٧٢٧",
+        "full_date_latin": "23 Pûşper 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Republic Day of Iraq",
+        "ku": "ساڵیادی شۆڕشی ١٤ی تەممووزی ١٩٥٨",
+        "ar": "ذكرى ثورة 14 تموز 1958",
+        "fa": "سالگرد انقلاب ۱۴ ژوئیه ۱۹۵۸"
+      },
+      "region": "bashur",
+      "type": "official"
+    },
+    {
+      "date": "2027-07-19",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Pûşper",
+        "month_number": 4,
+        "month_ku": "پووشپەڕ",
+        "day": 28,
+        "full_date": "٢٨ی پووشپەڕ ٢٧٢٧",
+        "full_date_latin": "28 Pûşper 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Rojava Revolution Anniversary",
+        "ku": "ساڵیادی شۆڕشی ڕۆژئاوا",
+        "ar": "ذكرى ثورة روجآفا",
+        "fa": "سالگرد انقلاب روژاوا"
+      },
+      "region": "rojava",
+      "type": "historical"
+    },
+    {
+      "date": "2027-07-31",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gelawêj",
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 9,
+        "full_date": "٩ی گەلاوێژ ٢٧٢٧",
+        "full_date_latin": "9 Gelawêj 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Barzanis",
+        "ku": "یادی ئەنفالکردنی بارزانییەکان",
+        "ar": "ذكرى أنفال البارزانيين",
+        "fa": "یادبود انفال بارزانی‌ها"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-08-03",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gelawêj",
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 12,
+        "full_date": "١٢ی گەلاوێژ ٢٧٢٧",
+        "full_date_latin": "12 Gelawêj 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Yazidis' Genocide",
+        "ku": "یادی جینۆسایدی ئێزیدییەکان",
+        "ar": "ذكرى الإبادة الجماعية للإيزيديين",
+        "fa": "یادبود نسل‌کشی ایزدیان"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-08-07",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gelawêj",
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 16,
+        "full_date": "١٦ی گەلاوێژ ٢٧٢٧",
+        "full_date_latin": "16 Gelawêj 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Assyrian Martyrs",
+        "ku": "ڕۆژی شەهیدانی ئاشووری",
+        "ar": "يوم الشهيد الآشوري",
+        "fa": "روز شهدای آشوری"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-08-14",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gelawêj",
+        "month_number": 5,
+        "month_ku": "گەلاوێژ",
+        "day": 23,
+        "full_date": "٢٣ی گەلاوێژ ٢٧٢٧",
+        "full_date_latin": "23 Gelawêj 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Birthday of Prophet Mohammed (PBUH)",
+        "ku": "یادی لەدایکبوونی پێغەمبەر (د.خ)",
+        "ar": "المولد النبوي الشريف",
+        "fa": "میلاد پیامبر اسلام (ص)"
+      },
+      "note": {
+        "en": "Estimated date, subject to moon sighting",
+        "ku": "بەرواری خەمڵێندراو، بەپێی بینینی مانگ دەگۆڕێت",
+        "ar": "تاريخ تقديري يعتمد على رؤية الهلال",
+        "fa": "تاریخ تقریبی، وابسته به رؤیت هلال ماه"
+      },
+      "region": "all",
+      "type": "religious",
+      "tentative": true
+    },
+    {
+      "date": "2027-08-25",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xermanan",
+        "month_number": 6,
+        "month_ku": "خەرمانان",
+        "day": 3,
+        "full_date": "٣ی خەرمانان ٢٧٢٧",
+        "full_date_latin": "3 Xermanan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Commemoration of Anfal Genocide against the Badinans'",
+        "ku": "یادی ئەنفالی بادینان",
+        "ar": "ذكرى أنفال بادينان",
+        "fa": "یادبود انفال بادینان"
+      },
+      "region": "bashur",
+      "type": "commemoration"
+    },
+    {
+      "date": "2027-09-11",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xermanan",
+        "month_number": 6,
+        "month_ku": "خەرمانان",
+        "day": 20,
+        "full_date": "٢٠ی خەرمانان ٢٧٢٧",
+        "full_date_latin": "20 Xermanan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Anniversary of the September Revolution (1961)",
+        "ku": "ساڵیادی شۆڕشی ئەیلوول",
+        "ar": "ذكرى ثورة أيلول",
+        "fa": "سالگرد انقلاب ایلول"
+      },
+      "region": "bashur",
+      "type": "historical"
+    },
+    {
+      "date": "2027-09-21",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Xermanan",
+        "month_number": 6,
+        "month_ku": "خەرمانان",
+        "day": 30,
+        "full_date": "٣٠ی خەرمانان ٢٧٢٧",
+        "full_date_latin": "30 Xermanan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Anniversary of the Establishment of the Islamic Scholars Union of Kurdistan",
+        "ku": "ساڵیادی دامەزراندنی یەکێتیی زانایانی ئایینی ئیسلامیی کوردستان",
+        "ar": "ذكرى تأسيس اتحاد علماء الدين الإسلامي في كوردستان",
+        "fa": "سالگرد تأسیس اتحادیه علمای دینی اسلامی کردستان"
+      },
+      "region": "bashur",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-10-06",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Rezber",
+        "month_number": 7,
+        "month_ku": "ڕەزبەر",
+        "day": 14,
+        "full_date": "١٤ی ڕەزبەر ٢٧٢٧",
+        "full_date_latin": "14 Rezber 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Yazidi Jama Feast",
+        "ku": "جەژنی جەما (ئێزیدییەکان)",
+        "ar": "عيد الجماعية (للإيزيديين)",
+        "fa": "جشن جما (ایزدیان)"
+      },
+      "note": {
+        "en": "Observed 6-12 October; holiday for Yazidis",
+        "ku": "لە ٦ تا ١٢ی تشرینی یەکەم؛ پشوو بۆ ئێزیدییەکان",
+        "ar": "من 6 إلى 12 تشرين الأول؛ عطلة للإيزيديين",
+        "fa": "از ۶ تا ۱۲ اکتبر؛ تعطیل برای ایزدیان"
+      },
+      "region": "bashur",
+      "type": "religious"
+    },
+    {
+      "date": "2027-11-17",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Gelarêzan",
+        "month_number": 8,
+        "month_ku": "گەڵاڕێزان",
+        "day": 26,
+        "full_date": "٢٦ی گەڵاڕێزان ٢٧٢٧",
+        "full_date_latin": "26 Gelarêzan 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Turkmen's Culture and Language Day",
+        "ku": "ڕۆژی کولتوور و زمانی تورکمانی",
+        "ar": "يوم الثقافة واللغة التركمانية",
+        "fa": "روز فرهنگ و زبان ترکمن"
+      },
+      "region": "bashur",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-12-10",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Sermawez",
+        "month_number": 9,
+        "month_ku": "سەرماوەز",
+        "day": 19,
+        "full_date": "١٩ی سەرماوەز ٢٧٢٧",
+        "full_date_latin": "19 Sermawez 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Human Rights Day",
+        "ku": "ڕۆژی جیهانیی مافەکانی مرۆڤ",
+        "ar": "اليوم العالمي لحقوق الإنسان",
+        "fa": "روز جهانی حقوق بشر"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-12-17",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Sermawez",
+        "month_number": 9,
+        "month_ku": "سەرماوەز",
+        "day": 26,
+        "full_date": "٢٦ی سەرماوەز ٢٧٢٧",
+        "full_date_latin": "26 Sermawez 2727"
+      },
+      "isHoliday": false,
+      "event": {
+        "en": "Kurdistan Flag Day",
+        "ku": "ڕۆژی ئاڵای کوردستان",
+        "ar": "يوم علم كوردستان",
+        "fa": "روز پرچم کردستان"
+      },
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2027-12-25",
+      "kurdish_date": {
+        "year": 2727,
+        "month": "Befranbar",
+        "month_number": 10,
+        "month_ku": "بەفرانبار",
+        "day": 4,
+        "full_date": "٤ی بەفرانبار ٢٧٢٧",
+        "full_date_latin": "4 Befranbar 2727"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Christmas Day",
+        "ku": "جەژنی لەدایکبوونی مەسیح (کریسمس)",
+        "ar": "عيد الميلاد المجيد",
+        "fa": "کریسمس"
+      },
+      "region": "all",
+      "type": "religious"
+    }
+  ]
+}
