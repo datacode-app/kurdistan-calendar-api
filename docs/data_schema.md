@@ -26,9 +26,17 @@ data/years/historical.json
 
 ```json
 {
+  "year": 2026,
+  "status": "official",
+  "sources": ["https://gov.krd/calendar-2026/"],
   "holidays": [Holiday]
 }
 ```
+
+- `year` (year files only) must match the file name; every entry must fall in that year.
+- `status` is `official` (published by the KRG) or `projected` (estimated ahead of the official calendar).
+- `sources` is an optional list of URLs the data was taken from.
+- Entries are sorted by date. Several entries may share the same date.
 
 ### Holiday Object
 
@@ -40,8 +48,11 @@ Each holiday entry has the following structure:
   "kurdish_date": {
     "year": number,
     "month": string,
+    "month_number": number,
+    "month_ku": string,
     "day": number,
-    "full_date": string
+    "full_date": string,
+    "full_date_latin": string
   },
   "isHoliday": boolean,
   "event": {
@@ -56,8 +67,9 @@ Each holiday entry has the following structure:
     "ar": "string",
     "fa": "string"
   },
-  "region": "string",
-  "type": "string (optional)",
+  "region": "bashur | bakur | rojhelat | rojava | all",
+  "type": "historical | political | commemoration | cultural | religious | official",
+  "tentative": "boolean (optional)",
   "image": "string (optional)"
 }
 ```
@@ -73,15 +85,26 @@ Each holiday entry has the following structure:
 | `isHoliday` | boolean | Whether this is an official holiday | true |
 | `event` | object | Event name in multiple languages | see below |
 | `region` | string | Region where the holiday is celebrated | "bashur" |
+| `type` | string | Category of the event | "religious" |
 
 ### Kurdish Date Object
 
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
-| `year` | number | Kurdish year (Gregorian year - ~700) | 2325 |
-| `month` | string | Kurdish month name | "Xakelew" |
+| `year` | number | Kurdish year (Gregorian year + 700 from Newroz, + 699 before it) | 2726 |
+| `month` | string | Kurdish month name (Latin) | "Xakelew" |
+| `month_number` | number | Month number, 1-12 | 1 |
+| `month_ku` | string | Kurdish month name (Sorani) | "خاکەلێوە" |
 | `day` | number | Day of the month | 1 |
-| `full_date` | string | Full date in Kurdish format | "١ی خاکەلێو ٢٣٢٥" |
+| `full_date` | string | Full date in Sorani | "١ی خاکەلێوە ٢٧٢٦" |
+| `full_date_latin` | string | Full date in Latin script | "1 Xakelew 2726" |
+
+`kurdish_date` is always derived from `date`. Do not write it by hand: run
+`python scripts/validate_data.py --fix` and it is filled in for you.
+
+The calendar convention is: the year starts on Newroz (21 March); months 1-6 have
+31 days, months 7-11 have 30 days, and Reşeme has 29 days (30 when it contains
+29 February).
 
 ### Kurdish Month Names
 
@@ -105,7 +128,7 @@ Each holiday entry has the following structure:
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
 | `note` | object | Additional information in multiple languages | see below |
-| `type` | string | Category or type of the event | "historical" |
+| `tentative` | boolean | `true` when the date is an estimate (for example Islamic holidays awaiting moon sighting) | true |
 | `image` | string | URL or path to an image related to the event | "https://example.com/nawroz.jpg" |
 
 ### Language Support

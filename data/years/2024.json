@@ -1,12 +1,17 @@
 {
+  "year": 2024,
+  "status": "official",
   "holidays": [
     {
       "date": "2024-01-01",
       "kurdish_date": {
         "year": 2723,
         "month": "Befranbar",
+        "month_number": 10,
+        "month_ku": "بەفرانبار",
         "day": 11,
-        "full_date": "١١ی Befranbar ٢٧٢٣"
+        "full_date": "١١ی بەفرانبار ٢٧٢٣",
+        "full_date_latin": "11 Befranbar 2723"
       },
       "isHoliday": true,
       "event": {
@@ -21,15 +26,19 @@
         "ar": "أول يوم من السنة التقويمية الميلادية",
         "fa": "اولین روز سال تقویم گرگوری"
       },
-      "region": "all"
+      "region": "all",
+      "type": "official"
     },
     {
       "date": "2024-03-05",
       "kurdish_date": {
         "year": 2723,
         "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
         "day": 15,
-        "full_date": "١٥ی Reşeme ٢٧٢٣"
+        "full_date": "١٥ی ڕەشەمە ٢٧٢٣",
+        "full_date_latin": "15 Reşeme 2723"
       },
       "isHoliday": true,
       "event": {
@@ -44,15 +53,19 @@
         "ar": "تخليد ذكرى انتفاضة 1991 ضد نظام صدام حسين في كردستان العراق",
         "fa": "بزرگداشت قیام 1991 علیه رژیم صدام حسین در کردستان عراق"
       },
-      "region": "bashur"
+      "region": "bashur",
+      "type": "historical"
     },
     {
       "date": "2024-03-10",
       "kurdish_date": {
         "year": 2723,
         "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
         "day": 20,
-        "full_date": "٢٠ی Reşeme ٢٧٢٣"
+        "full_date": "٢٠ی ڕەشەمە ٢٧٢٣",
+        "full_date_latin": "20 Reşeme 2723"
       },
       "isHoliday": false,
       "event": {
@@ -67,15 +80,40 @@
         "ar": "يوم للاحتفال وارتداء الملابس الكردية التقليدية",
         "fa": "روزی برای جشن گرفتن و پوشیدن لباس سنتی کردی"
       },
-      "region": "all"
+      "region": "all",
+      "type": "cultural"
+    },
+    {
+      "date": "2024-03-16",
+      "kurdish_date": {
+        "year": 2723,
+        "month": "Reşeme",
+        "month_number": 12,
+        "month_ku": "ڕەشەمە",
+        "day": 26,
+        "full_date": "٢٦ی ڕەشەمە ٢٧٢٣",
+        "full_date_latin": "26 Reşeme 2723"
+      },
+      "isHoliday": true,
+      "event": {
+        "en": "Halabja Day",
+        "ku": "یادی کیمیابارانی هەڵەبجە",
+        "ar": "ذكرى قصف حلبجة بالأسلحة الكيمياوية",
+        "fa": "سالگرد بمباران شیمیایی حلبچه"
+      },
+      "region": "all",
+      "type": "commemoration"
     },
     {
       "date": "2024-03-21",
       "kurdish_date": {
         "year": 2724,
         "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
         "day": 1,
-        "full_date": "١ی Xakelew ٢٧٢٤"
+        "full_date": "١ی خاکەلێوە ٢٧٢٤",
+        "full_date_latin": "1 Xakelew 2724"
       },
       "isHoliday": true,
       "event": {
@@ -90,15 +128,19 @@
         "ar": "احتفال تقليدي بالربيع ورأس السنة الكردية",
         "fa": "جشن سنتی بهار و سال نو کردی"
       },
-      "region": "all"
+      "region": "all",
+      "type": "cultural"
     },
     {
       "date": "2024-04-14",
       "kurdish_date": {
         "year": 2724,
         "month": "Xakelew",
+        "month_number": 1,
+        "month_ku": "خاکەلێوە",
         "day": 25,
-        "full_date": "٢٥ی Xakelew ٢٧٢٤"
+        "full_date": "٢٥ی خاکەلێوە ٢٧٢٤",
+        "full_date_latin": "25 Xakelew 2724"
       },
       "isHoliday": true,
       "event": {
@@ -113,15 +155,19 @@
         "ar": "الاحتفال بالتراث الغني للغة الكردية",
         "fa": "جشن میراث غنی زبان کردی"
       },
-      "region": "all"
+      "region": "all",
+      "type": "cultural"
     },
     {
       "date": "2024-06-01",
       "kurdish_date": {
         "year": 2724,
         "month": "Cozerdan",
+        "month_number": 3,
+        "month_ku": "جۆزەردان",
         "day": 11,
-        "full_date": "١١ی Cozerdan ٢٧٢٤"
+        "full_date": "١١ی جۆزەردان ٢٧٢٤",
+        "full_date_latin": "11 Cozerdan 2724"
       },
       "isHoliday": true,
       "event": {
@@ -136,15 +182,19 @@
         "ar": "يوم لتكريم الأطفال ورفع مستوى الوعي بحقوق الطفل",
         "fa": "روزی برای احترام به کودکان و آگاهی از حقوق کودکان"
       },
-      "region": "all"
+      "region": "all",
+      "type": "official"
     },
     {
       "date": "2024-10-16",
       "kurdish_date": {
         "year": 2724,
         "month": "Rezber",
+        "month_number": 7,
+        "month_ku": "ڕەزبەر",
         "day": 24,
-        "full_date": "٢٤ی Rezber ٢٧٢٤"
+        "full_date": "٢٤ی ڕەزبەر ٢٧٢٤",
+        "full_date_latin": "24 Rezber 2724"
       },
       "isHoliday": true,
       "event": {
@@ -159,15 +209,19 @@
         "ar": "إحياء للأهمية الثقافية والتاريخية لكركوك",
         "fa": "بزرگداشت اهمیت فرهنگی و تاریخی کرکوک"
       },
-      "region": "bashur"
+      "region": "bashur",
+      "type": "historical"
     },
     {
       "date": "2024-12-10",
       "kurdish_date": {
         "year": 2724,
         "month": "Sermawez",
+        "month_number": 9,
+        "month_ku": "سەرماوەز",
         "day": 19,
-        "full_date": "١٩ی Sermawez ٢٧٢٤"
+        "full_date": "١٩ی سەرماوەز ٢٧٢٤",
+        "full_date_latin": "19 Sermawez 2724"
       },
       "isHoliday": false,
       "event": {
@@ -182,7 +236,8 @@
         "ar": "يوم دولي لإحياء ذكرى الإعلان العالمي لحقوق الإنسان",
         "fa": "روز جهانی برای بزرگداشت اعلامیه جهانی حقوق بشر"
       },
-      "region": "all"
+      "region": "all",
+      "type": "cultural"
     }
   ]
 }
